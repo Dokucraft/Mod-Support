@@ -6,6 +6,10 @@
 
 [Just Enough Items](https://github.com/SyndiShanX/Just-Enough-Items-Mod-Support)
 
+## 1.19.2
+
+[ProjectE](https://github.com/SyndiShanX/ProjectE-Mod-Support)
+
 ## 1.18.2
 
 [Applied Energistics 2](https://github.com/SyndiShanX/Applied-Energistics-Mod-Support)
@@ -18,6 +22,8 @@
 
 [Mekanism](https://github.com/SyndiShanX/Mekanism-Mod-Support)
 
+[ProjectE](https://github.com/SyndiShanX/ProjectE-Mod-Support)
+
 [Roughly Enough Items](https://github.com/SyndiShanX/Roughly-Enough-Items-Mod-Support)
 
 [Thermal Expansion, Thermal Foundation, and COFH](https://github.com/SyndiShanX/Thermal-Mod-Support)
@@ -27,6 +33,8 @@
 ## 1.16.5
 
 [Caves & Cliffs Backport](https://github.com/SyndiShanX/Caves-and-Cliffs-Mod-Support)
+
+[ProjectE](https://github.com/SyndiShanX/ProjectE-Mod-Support)
 
 [Quark](https://github.com/SyndiShanX/Quark-Mod-Support)
 
