@@ -1,0 +1,82 @@
+[
+	{
+		"name": "Aether Legacy",
+		"status": "work_in_progress",
+		"versions": [ "1.12.2" ],
+		"flavors": [ "light" ],
+		"repo": "https://github.com/SyndiShanX/Aether-Legacy-Mod-Support",
+		"branches": [ "1.12.2" ]
+	},
+	{
+		"name": "Applied Energistics 2",
+		"status": "work_in_progress",
+		"versions": [ "1.18.2", "1.12.2" ],
+		"flavors": [ "light" ],
+		"repo": "https://github.com/SyndiShanX/Applied-Energistics-Mod-Support",
+		"branches": [ "1.18.2", "1.12.2" ]
+	},
+	{
+		"name": "Caves and Cliffs",
+		"status": "completed",
+		"versions": [ "1.16.5" ],
+		"flavors": [ "light", "high" ],
+		"repo": "https://github.com/SyndiShanX/Caves-and-Cliffs-Mod-Support",
+		"branches": [ "Light-1.16.5", "High-1.16.5" ]
+	},
+	{
+		"name": "Extreme Reactors",
+		"status": "completed",
+		"versions": [ "1.20.1", "1.12.2" ],
+		"flavors": [ "light" ],
+		"repo": "https://github.com/SyndiShanX/Extreme-Reactors-Mod-Support",
+		"branches": [ "1.20.1", "1.12.2" ]
+	},
+	{
+		"name": "Iron Chests",
+		"status": "completed",
+		"versions": [ "1.18.2" ],
+		"flavors": [ "light" ],
+		"repo": "https://github.com/SyndiShanX/Iron-Chests-Mod-Support",
+		"branches": [ "1.18.2" ]
+	},
+	{
+		"name": "Iron Furnaces",
+		"status": "completed",
+		"versions": [ "1.18.2" ],
+		"flavors": [ "light" ],
+		"repo": "https://github.com/SyndiShanX/Iron-Furnaces-Mod-Support",
+		"branches": [ "1.18.2" ]
+	},
+	{
+		"name": "Mekanism",
+		"status": "work_in_progress",
+		"versions": [ "1.18.2", "1.12.2" ],
+		"flavors": [ "light" ],
+		"repo": "https://github.com/SyndiShanX/Mekanism-Mod-Support",
+		"branches": [ "1.18.2", "1.12.2" ]
+	},
+	{
+		"name": "Quark",
+		"status": "work_in_progress",
+		"versions": [ "1.16.5" ],
+		"flavors": [ "high" ],
+		"repo": "https://github.com/SyndiShanX/Quark-Mod-Support",
+		"branches": [ "1.16.5" ]
+	},
+	{
+		"name": "Thermal Mods",
+		"status": "work_in_progress",
+		"versions": [ "1.18.2", "1.12.2" ],
+		"flavors": [ "light" ],
+		"repo": "https://github.com/SyndiShanX/Thermal-Mod-Support",
+		"branches": [ "1.18.2", "1.12.2" ]
+	},
+	{
+		"name": "Tinkers Construct",
+		"status": "work_in_progress",
+		"versions": [ "1.18.2", "1.12.2" ],
+		"flavors": [ "light" ],
+		"repo": "https://github.com/SyndiShanX/Tinkers-Construct-Mod-Support",
+		"branches": [ "1.18.2", "1.12.2" ]
+	}
+]
