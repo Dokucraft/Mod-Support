@@ -1,53 +1,65 @@
 # Dokucraft Mod Support
 
-## 1.20.1
+## Aether Legacy - 1.12.2
 
-[Extreme Reactors](https://github.com/SyndiShanX/Extreme-Reactors-Mod-Support)
+[Aether Legacy 1.12.2](https://github.com/SyndiShanX/Aether-Legacy-Mod-Support)
 
-[Just Enough Items](https://github.com/SyndiShanX/Just-Enough-Items-Mod-Support)
+## Applied Energistics 2 - 1.12.2, 1.18.2
 
-## 1.19.2
+[Applied Energistics 2 1.12.2](https://github.com/SyndiShanX/Applied-Energistics-Mod-Support/tree/1.12.2)
 
-[ProjectE](https://github.com/SyndiShanX/ProjectE-Mod-Support)
+[Applied Energistics 2 1.18.2](https://github.com/SyndiShanX/Applied-Energistics-Mod-Support)
 
-## 1.18.2
+## Caves & Cliffs Backport - 1.16.5
 
-[Applied Energistics 2](https://github.com/SyndiShanX/Applied-Energistics-Mod-Support)
+[Caves & Cliffs Backport 1.16.5](https://github.com/SyndiShanX/Caves-and-Cliffs-Mod-Support)
 
-[Iron Chests](https://github.com/SyndiShanX/Iron-Chests-Mod-Support)
+## Extreme Reactors - 1.12.2, 1.20.1
 
-[Iron Furnaces](https://github.com/SyndiShanX/Iron-Furnaces-Mod-Support)
+[Extreme Reactors 1.12.2](https://github.com/SyndiShanX/Extreme-Reactors-Mod-Support/tree/1.12.2)
 
-[Just Enough Items](https://github.com/SyndiShanX/Just-Enough-Items-Mod-Support/1.18.2)
+[Extreme Reactors 1.20.1](https://github.com/SyndiShanX/Extreme-Reactors-Mod-Support)
 
-[Mekanism](https://github.com/SyndiShanX/Mekanism-Mod-Support)
+## Iron Chests - 1.18.2
 
-[ProjectE](https://github.com/SyndiShanX/ProjectE-Mod-Support)
+[Iron Chests 1.18.2](https://github.com/SyndiShanX/Iron-Chests-Mod-Support)
 
-[Roughly Enough Items](https://github.com/SyndiShanX/Roughly-Enough-Items-Mod-Support)
+## Iron Furnaces - 1.18.2
 
-[Thermal Expansion, Thermal Foundation, and COFH](https://github.com/SyndiShanX/Thermal-Mod-Support)
+[Iron Furnaces 1.18.2](https://github.com/SyndiShanX/Iron-Furnaces-Mod-Support)
 
-[Tinkers Construct](https://github.com/SyndiShanX/Tinkers-Construct-Mod-Support)
+## Just Enough Items - 1.18.2, 1.20.1
 
-## 1.16.5
+[Just Enough Items 1.20.1](https://github.com/SyndiShanX/Just-Enough-Items-Mod-Support)
 
-[Caves & Cliffs Backport](https://github.com/SyndiShanX/Caves-and-Cliffs-Mod-Support)
+[Just Enough Items 1.18.2](https://github.com/SyndiShanX/Just-Enough-Items-Mod-Support/1.18.2)
 
-[ProjectE](https://github.com/SyndiShanX/ProjectE-Mod-Support)
+## Mekanism - 1.12.2, 1.18.2
 
-[Quark](https://github.com/SyndiShanX/Quark-Mod-Support)
+[Mekanism 1.12.2](https://github.com/SyndiShanX/Mekanism-Mod-Support/tree/1.12.2)
 
-## 1.12.2
+[Mekanism 1.18.2](https://github.com/SyndiShanX/Mekanism-Mod-Support)
 
-[Aether Legacy](https://github.com/SyndiShanX/Aether-Legacy-Mod-Support)
+## ProjectE - 1.16.5-1.19.2
 
-[Applied Energistics 2](https://github.com/SyndiShanX/Applied-Energistics-Mod-Support/tree/1.12.2)
+[ProjectE 1.16.5-1.19.2](https://github.com/SyndiShanX/ProjectE-Mod-Support)
 
-[Extreme Reactors](https://github.com/SyndiShanX/Extreme-Reactors-Mod-Support/tree/1.12.2)
+## Quark - 1.16.5
 
-[Mekanism](https://github.com/SyndiShanX/Mekanism-Mod-Support/tree/1.12.2)
+[Quark 1.16.5](https://github.com/SyndiShanX/Quark-Mod-Support)
 
-[Thermal Expansion, Thermal Foundation, and COFH](https://github.com/SyndiShanX/Thermal-Mod-Support/tree/1.12.2)
+## Roughly Enough Items - 1.18.2
 
-[Tinkers Construct](https://github.com/SyndiShanX/Tinkers-Construct-Mod-Support/tree/1.12.2)
+[Roughly Enough Items 1.18.2](https://github.com/SyndiShanX/Roughly-Enough-Items-Mod-Support)
+
+## Thermal Expansion, Thermal Foundation, and COFH - 1.12.2, 1.18.2
+
+[Thermal Expansion, Thermal Foundation, and COFH 1.12.2](https://github.com/SyndiShanX/Thermal-Mod-Support/tree/1.12.2)
+
+[Thermal Expansion, Thermal Foundation, and COFH 1.18.2](https://github.com/SyndiShanX/Thermal-Mod-Support)
+
+## Tinkers Construct - 1.12.2, 1.18.2
+
+[Tinkers Construct 1.12.2](https://github.com/SyndiShanX/Tinkers-Construct-Mod-Support/tree/1.12.2)
+
+[Tinkers Construct 1.18.2](https://github.com/SyndiShanX/Tinkers-Construct-Mod-Support)
