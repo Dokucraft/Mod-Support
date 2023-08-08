@@ -5,7 +5,8 @@
 		"versions": [ "1.12.2" ],
 		"flavors": [ "light" ],
 		"repo": "https://github.com/SyndiShanX/Aether-Legacy-Mod-Support",
-		"branches": [ "1.12.2" ]
+		"branches": [ "1.12.2" ],
+		"mod-page": "https://minecraft.curseforge.com/projects/aether-legacy"
 	},
 	{
 		"name": "Applied Energistics 2",
@@ -13,7 +14,8 @@
 		"versions": [ "1.18.2", "1.12.2" ],
 		"flavors": [ "light" ],
 		"repo": "https://github.com/SyndiShanX/Applied-Energistics-Mod-Support",
-		"branches": [ "1.18.2", "1.12.2" ]
+		"branches": [ "1.18.2", "1.12.2" ],
+		"mod-page": "https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2"
 	},
 	{
 		"name": "Caves and Cliffs",
@@ -21,7 +23,8 @@
 		"versions": [ "1.16.5" ],
 		"flavors": [ "light", "high" ],
 		"repo": "https://github.com/SyndiShanX/Caves-and-Cliffs-Mod-Support",
-		"branches": [ "Light-1.16.5", "High-1.16.5" ]
+		"branches": [ "Light-1.16.5", "High-1.16.5" ],
+		"mod-page": "https://www.curseforge.com/minecraft/mc-mods/caves-and-cliffs-backport"
 	},
 	{
 		"name": "Extreme Reactors",
@@ -29,7 +32,8 @@
 		"versions": [ "1.20.1", "1.12.2" ],
 		"flavors": [ "light" ],
 		"repo": "https://github.com/SyndiShanX/Extreme-Reactors-Mod-Support",
-		"branches": [ "1.20.1", "1.12.2" ]
+		"branches": [ "1.20.1", "1.12.2" ],
+		"mod-page": "https://www.curseforge.com/minecraft/mc-mods/extreme-reactors"
 	},
 	{
 		"name": "Iron Chests",
@@ -37,7 +41,8 @@
 		"versions": [ "1.18.2" ],
 		"flavors": [ "light" ],
 		"repo": "https://github.com/SyndiShanX/Iron-Chests-Mod-Support",
-		"branches": [ "1.18.2" ]
+		"branches": [ "1.18.2" ],
+		"mod-page": "https://legacy.curseforge.com/minecraft/mc-mods/iron-chests"
 	},
 	{
 		"name": "Iron Furnaces",
@@ -45,7 +50,8 @@
 		"versions": [ "1.18.2" ],
 		"flavors": [ "light" ],
 		"repo": "https://github.com/SyndiShanX/Iron-Furnaces-Mod-Support",
-		"branches": [ "1.18.2" ]
+		"branches": [ "1.18.2" ],
+		"mod-page": "https://www.curseforge.com/minecraft/mc-mods/iron-furnaces"
 	},
 	{
 		"name": "Just Enough Items",
@@ -53,7 +59,8 @@
 		"versions": [ "1.20.1", "1.18.2" ],
 		"flavors": [ "light" ],
 		"repo": "https://github.com/SyndiShanX/Just-Enough-Items-Mod-Support",
-		"branches": [ "1.20.1", "1.18.2" ]
+		"branches": [ "1.20.1", "1.18.2" ],
+		"mod-page": "https://www.curseforge.com/minecraft/mc-mods/jei"
 	},
 	{
 		"name": "Mekanism",
@@ -61,7 +68,8 @@
 		"versions": [ "1.18.2", "1.12.2" ],
 		"flavors": [ "light" ],
 		"repo": "https://github.com/SyndiShanX/Mekanism-Mod-Support",
-		"branches": [ "1.18.2", "1.12.2" ]
+		"branches": [ "1.18.2", "1.12.2" ],
+		"mod-page": "https://www.curseforge.com/minecraft/mc-mods/mekanism"
 	},
 	{
 		"name": "ProjectE",
@@ -69,7 +77,8 @@
 		"versions": [ "1.16.5" ,"1.18.1", "1.18.2", "1.19.2" ],
 		"flavors": [ "light" ],
 		"repo": "https://github.com/SyndiShanX/ProjectE-Mod-Support",
-		"branches": [ "latest" ]
+		"branches": [ "latest" ],
+		"mod-page": "https://www.curseforge.com/minecraft/mc-mods/projecte"
 	},
 	{
 		"name": "Quark",
@@ -77,7 +86,8 @@
 		"versions": [ "1.16.5" ],
 		"flavors": [ "high" ],
 		"repo": "https://github.com/SyndiShanX/Quark-Mod-Support",
-		"branches": [ "1.16.5" ]
+		"branches": [ "1.16.5" ],
+		"mod-page": "https://www.curseforge.com/minecraft/mc-mods/quark"
 	},
 	{
 		"name": "Roughly Enough Items",
@@ -85,7 +95,8 @@
 		"versions": [ "1.18.2" ],
 		"flavors": [ "light" ],
 		"repo": "https://github.com/SyndiShanX/Roughly-Enough-Items-Mod-Support",
-		"branches": [ "1.18.2" ]
+		"branches": [ "1.18.2" ],
+		"mod-page": "https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items"
 	},
 	{
 		"name": "Thermal Mods",
@@ -93,7 +104,12 @@
 		"versions": [ "1.18.2", "1.12.2" ],
 		"flavors": [ "light" ],
 		"repo": "https://github.com/SyndiShanX/Thermal-Mod-Support",
-		"branches": [ "1.18.2", "1.12.2" ]
+		"branches": [ "1.18.2", "1.12.2" ],
+		"mod-page": [
+			"https://www.curseforge.com/minecraft/mc-mods/thermal-expansion",
+			"https://www.curseforge.com/minecraft/mc-mods/thermal-foundation",
+			"https://www.curseforge.com/minecraft/mc-mods/cofh-core"
+		]
 	},
 	{
 		"name": "Tinkers Construct",
@@ -101,6 +117,7 @@
 		"versions": [ "1.18.2", "1.12.2" ],
 		"flavors": [ "light" ],
 		"repo": "https://github.com/SyndiShanX/Tinkers-Construct-Mod-Support",
-		"branches": [ "1.18.2", "1.12.2" ]
+		"branches": [ "1.18.2", "1.12.2" ],
+		"mod-page": "https://www.curseforge.com/minecraft/mc-mods/tinkers-construct"
 	}
 ]
