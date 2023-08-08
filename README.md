@@ -4,6 +4,8 @@
 
 [Extreme Reactors](https://github.com/SyndiShanX/Extreme-Reactors-Mod-Support)
 
+[Just Enough Items](https://github.com/SyndiShanX/Just-Enough-Items-Mod-Support)
+
 ## 1.18.2
 
 [Applied Energistics 2](https://github.com/SyndiShanX/Applied-Energistics-Mod-Support)
@@ -12,7 +14,11 @@
 
 [Iron Furnaces](https://github.com/SyndiShanX/Iron-Furnaces-Mod-Support)
 
+[Just Enough Items](https://github.com/SyndiShanX/Just-Enough-Items-Mod-Support/1.18.2)
+
 [Mekanism](https://github.com/SyndiShanX/Mekanism-Mod-Support)
+
+[Roughly Enough Items](https://github.com/SyndiShanX/Roughly-Enough-Items-Mod-Support)
 
 [Thermal Expansion, Thermal Foundation, and COFH](https://github.com/SyndiShanX/Thermal-Mod-Support)
 
