@@ -18,6 +18,15 @@
 		"mod-page": "https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2"
 	},
 	{
+		"name": "CC:Tweaked",
+		"status": "completed",
+		"versions": [ "1.16.4", "1.16.5" "1.17.1", "1.18.1", "1.18.2", "1.19.2", "1.19.3", "1.19.4", "1.20", "1.20.1" ],
+		"flavors": [ "light" ],
+		"repo": "https://github.com/SyndiShanX/CC-Tweaked-Mod-Support",
+		"branches": [ "latest" ],
+		"mod-page": "https://curseforge.com/minecraft/mc-mods/cc-tweaked"
+	},
+	{
 		"name": "Caves and Cliffs",
 		"status": "completed",
 		"versions": [ "1.16.5" ],
