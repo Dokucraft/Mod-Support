@@ -1,132 +1,205 @@
 [
-	{
-		"name": "Aether Legacy",
-		"status": "work_in_progress",
-		"versions": [ "1.12.2" ],
-		"flavors": [ "light" ],
-		"repo": "https://github.com/SyndiShanX/Aether-Legacy-Mod-Support",
-		"branches": [ "1.12.2" ],
-		"mod-page": "https://minecraft.curseforge.com/projects/aether-legacy"
-	},
-	{
-		"name": "Applied Energistics 2",
-		"status": "work_in_progress",
-		"versions": [ "1.18.2", "1.12.2" ],
-		"flavors": [ "light" ],
-		"repo": "https://github.com/SyndiShanX/Applied-Energistics-Mod-Support",
-		"branches": [ "1.18.2", "1.12.2" ],
-		"mod-page": "https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2"
-	},
-	{
-		"name": "CC:Tweaked",
-		"status": "completed",
-		"versions": [ "1.16.4", "1.16.5" "1.17.1", "1.18.1", "1.18.2", "1.19.2", "1.19.3", "1.19.4", "1.20", "1.20.1" ],
-		"flavors": [ "light" ],
-		"repo": "https://github.com/SyndiShanX/CC-Tweaked-Mod-Support",
-		"branches": [ "latest" ],
-		"mod-page": "https://curseforge.com/minecraft/mc-mods/cc-tweaked"
-	},
-	{
-		"name": "Caves and Cliffs",
-		"status": "completed",
-		"versions": [ "1.16.5" ],
-		"flavors": [ "light", "high" ],
-		"repo": "https://github.com/SyndiShanX/Caves-and-Cliffs-Mod-Support",
-		"branches": [ "Light-1.16.5", "High-1.16.5" ],
-		"mod-page": "https://www.curseforge.com/minecraft/mc-mods/caves-and-cliffs-backport"
-	},
-	{
-		"name": "Extreme Reactors",
-		"status": "completed",
-		"versions": [ "1.20.1", "1.12.2" ],
-		"flavors": [ "light" ],
-		"repo": "https://github.com/SyndiShanX/Extreme-Reactors-Mod-Support",
-		"branches": [ "1.20.1", "1.12.2" ],
-		"mod-page": "https://www.curseforge.com/minecraft/mc-mods/extreme-reactors"
-	},
-	{
-		"name": "Iron Chests",
-		"status": "completed",
-		"versions": [ "1.18.2" ],
-		"flavors": [ "light" ],
-		"repo": "https://github.com/SyndiShanX/Iron-Chests-Mod-Support",
-		"branches": [ "1.18.2" ],
-		"mod-page": "https://legacy.curseforge.com/minecraft/mc-mods/iron-chests"
-	},
-	{
-		"name": "Iron Furnaces",
-		"status": "completed",
-		"versions": [ "1.18.2" ],
-		"flavors": [ "light" ],
-		"repo": "https://github.com/SyndiShanX/Iron-Furnaces-Mod-Support",
-		"branches": [ "1.18.2" ],
-		"mod-page": "https://www.curseforge.com/minecraft/mc-mods/iron-furnaces"
-	},
-	{
-		"name": "Just Enough Items",
-		"status": "completed",
-		"versions": [ "1.20.1", "1.18.2" ],
-		"flavors": [ "light" ],
-		"repo": "https://github.com/SyndiShanX/Just-Enough-Items-Mod-Support",
-		"branches": [ "1.20.1", "1.18.2" ],
-		"mod-page": "https://www.curseforge.com/minecraft/mc-mods/jei"
-	},
-	{
-		"name": "Mekanism",
-		"status": "work_in_progress",
-		"versions": [ "1.18.2", "1.12.2" ],
-		"flavors": [ "light" ],
-		"repo": "https://github.com/SyndiShanX/Mekanism-Mod-Support",
-		"branches": [ "1.18.2", "1.12.2" ],
-		"mod-page": "https://www.curseforge.com/minecraft/mc-mods/mekanism"
-	},
-	{
-		"name": "ProjectE",
-		"status": "work_in_progress",
-		"versions": [ "1.16.5" ,"1.18.1", "1.18.2", "1.19.2" ],
-		"flavors": [ "light" ],
-		"repo": "https://github.com/SyndiShanX/ProjectE-Mod-Support",
-		"branches": [ "latest" ],
-		"mod-page": "https://www.curseforge.com/minecraft/mc-mods/projecte"
-	},
-	{
-		"name": "Quark",
-		"status": "work_in_progress",
-		"versions": [ "1.16.5" ],
-		"flavors": [ "high" ],
-		"repo": "https://github.com/SyndiShanX/Quark-Mod-Support",
-		"branches": [ "1.16.5" ],
-		"mod-page": "https://www.curseforge.com/minecraft/mc-mods/quark"
-	},
-	{
-		"name": "Roughly Enough Items",
-		"status": "completed",
-		"versions": [ "1.18.2" ],
-		"flavors": [ "light" ],
-		"repo": "https://github.com/SyndiShanX/Roughly-Enough-Items-Mod-Support",
-		"branches": [ "1.18.2" ],
-		"mod-page": "https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items"
-	},
-	{
-		"name": "Thermal Mods",
-		"status": "work_in_progress",
-		"versions": [ "1.18.2", "1.12.2" ],
-		"flavors": [ "light" ],
-		"repo": "https://github.com/SyndiShanX/Thermal-Mod-Support",
-		"branches": [ "1.18.2", "1.12.2" ],
-		"mod-page": [
-			"https://www.curseforge.com/minecraft/mc-mods/thermal-expansion",
-			"https://www.curseforge.com/minecraft/mc-mods/thermal-foundation",
-			"https://www.curseforge.com/minecraft/mc-mods/cofh-core"
-		]
-	},
-	{
-		"name": "Tinkers Construct",
-		"status": "work_in_progress",
-		"versions": [ "1.18.2", "1.12.2" ],
-		"flavors": [ "light" ],
-		"repo": "https://github.com/SyndiShanX/Tinkers-Construct-Mod-Support",
-		"branches": [ "1.18.2", "1.12.2" ],
-		"mod-page": "https://www.curseforge.com/minecraft/mc-mods/tinkers-construct"
-	}
+  {
+    "name": "Aether Legacy",
+    "status": "wip",
+    "repo": "SyndiShanX/Aether-Legacy-Mod-Support",
+    "packs": [
+      {
+        "versions": [ "1.12.2" ],
+        "flavor": "light",
+        "branch": "1.12.2"
+      }
+    ]
+  },
+  {
+    "name": "Applied Energistics 2",
+    "status": "wip",
+    "repo": "SyndiShanX/Applied-Energistics-Mod-Support",
+    "packs": [
+      {
+        "versions": [ "1.12.2" ],
+        "flavor": "light",
+        "branch": "1.12.2"
+      },
+      {
+        "versions": [ "1.18.2" ],
+        "flavor": "light",
+        "branch": "1.18.2"
+      }
+    ]
+  },
+  {
+    "name": "CC:Tweaked",
+    "status": "completed",
+    "repo": "SyndiShanX/CC-Tweaked-Mod-Support",
+    "packs": [
+      {
+        "versions": [ "1.16.4", "1.16.5", "1.17.1", "1.18.1", "1.18.2", "1.19.2", "1.19.3", "1.19.4", "1.20", "1.20.1" ],
+        "flavor": "light",
+        "branch": "latest"
+      }
+    ]
+  },
+  {
+    "name": "Caves and Cliffs",
+    "status": "completed",
+    "repo": "SyndiShanX/Caves-and-Cliffs-Mod-Support",
+    "packs": [
+      {
+        "versions": [ "1.16.5" ],
+        "flavor": "light",
+        "branch": "Light-1.16.5"
+      },
+      {
+        "versions": [ "1.16.5" ],
+        "flavor": "high",
+        "branch": "High-1.16.5"
+      }
+    ]
+  },
+  {
+    "name": "Extreme Reactors",
+    "status": "completed",
+    "repo": "SyndiShanX/Extreme-Reactors-Mod-Support",
+    "packs": [
+      {
+        "versions": [ "1.12.2" ],
+        "flavor": "light",
+        "branch": "1.12.2"
+      },
+      {
+        "versions": [ "1.20.1" ],
+        "flavor": "light",
+        "branch": "1.20.1"
+      }
+    ]
+  },
+  {
+    "name": "Iron Chests",
+    "status": "completed",
+    "repo": "SyndiShanX/Iron-Chests-Mod-Support",
+    "packs": [
+      {
+        "versions": [ "1.18.2" ],
+        "flavor": "light",
+        "branch": "1.18.2"
+      }
+    ]
+  },
+  {
+    "name": "Iron Furnaces",
+    "status": "completed",
+    "repo": "SyndiShanX/Iron-Furnaces-Mod-Support",
+    "packs": [
+      {
+        "versions": [ "1.18.2" ],
+        "flavor": "light",
+        "branch": "1.18.2"
+      }
+    ]
+  },
+  {
+    "name": "Just Enough Items",
+    "status": "completed",
+    "repo": "SyndiShanX/Just-Enough-Items-Mod-Support",
+    "packs": [
+      {
+        "versions": [ "1.18.2" ],
+        "flavor": "light",
+        "branch": "1.18.2"
+      },
+      {
+        "versions": [ "1.20.1" ],
+        "flavor": "light",
+        "branch": "1.20.1"
+      }
+    ]
+  },
+  {
+    "name": "Mekanism",
+    "status": "wip",
+    "repo": "SyndiShanX/Mekanism-Mod-Support",
+    "packs": [
+      {
+        "versions": [ "1.12.2" ],
+        "flavor": "light",
+        "branch": "1.12.2"
+      },
+      {
+        "versions": [ "1.18.2" ],
+        "flavor": "light",
+        "branch": "1.18.2"
+      }
+    ]
+  },
+  {
+    "name": "ProjectE",
+    "status": "wip",
+    "repo": "SyndiShanX/ProjectE-Mod-Support",
+    "packs": [
+      {
+        "versions": [ "1.16.5", "1.18.1", "1.18.2", "1.19.2" ],
+        "flavor": "light",
+        "branch": "latest"
+      }
+    ]
+  },
+  {
+    "name": "Quark",
+    "status": "wip",
+    "repo": "SyndiShanX/Quark-Mod-Support",
+    "packs": [
+      {
+        "versions": [ "1.16.5" ],
+        "flavor": "light",
+        "branch": "1.16.5"
+      }
+    ]
+  },
+  {
+    "name": "Roughly Enough Items",
+    "status": "completed",
+    "repo": "SyndiShanX/Roughly-Enough-Items-Mod-Support",
+    "packs": [
+      {
+        "versions": [ "1.18.2" ],
+        "flavor": "light",
+        "branch": "1.18.2"
+      }
+    ]
+  },
+  {
+    "name": "Thermal Mods",
+    "status": "wip",
+    "repo": "SyndiShanX/Thermal-Mod-Support",
+    "packs": [
+      {
+        "versions": [ "1.12.2" ],
+        "flavor": "light",
+        "branch": "1.12.2"
+      },
+      {
+        "versions": [ "1.18.2" ],
+        "flavor": "light",
+        "branch": "1.18.2"
+      }
+    ]
+  },
+  {
+    "name": "Tinkers Construct",
+    "status": "wip",
+    "repo": "SyndiShanX/Tinkers-Construct-Mod-Support",
+    "packs": [
+      {
+        "versions": [ "1.12.2" ],
+        "flavor": "light",
+        "branch": "1.12.2"
+      },
+      {
+        "versions": [ "1.18.2" ],
+        "flavor": "light",
+        "branch": "1.18.2"
+      }
+    ]
+  }
 ]
