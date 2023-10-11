@@ -28,6 +28,10 @@
 
 [Extreme Reactors 1.20.1](https://github.com/SyndiShanX/Extreme-Reactors-Mod-Support)
 
+## Decorative Blocks by stohun - 1.18.2+
+
+[Decorative Blocks by stohun 1.18.2+](https://github.com/Dokucraft/Mod-Support-Decorative-Blocks)
+
 ## Farmer's Delight & Farmer's Delight Add Ons - 1.18.2+
 
 [Famer's Delight (main mod) (1.18.2+)](https://github.com/Dokucraft/Mod-Support-Farmers-Delight)
