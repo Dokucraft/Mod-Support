@@ -28,6 +28,12 @@
 
 [Extreme Reactors 1.20.1](https://github.com/SyndiShanX/Extreme-Reactors-Mod-Support)
 
+## Farmer's Delight & Farmer's Delight Add Ons - 1.18.2+
+
+[Famer's Delight (main mod) (1.18.2+)](https://github.com/Dokucraft/Mod-Support-Farmers-Delight)
+
+[Miner's Delight Add On (1.18.2+)](https://github.com/Dokucraft/Mod-Support-Miners-Delight)
+
 ## Iron Chests - 1.18.2
 
 [Iron Chests 1.18.2](https://github.com/SyndiShanX/Iron-Chests-Mod-Support)
