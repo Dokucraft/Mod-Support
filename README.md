@@ -18,6 +18,10 @@
 
 [CC:Tweaked 1.16.4-1.20.1](https://github.com/SyndiShanX/Caves-and-Cliffs-Mod-Support)
 
+## Create Mod - 1.18.2-1.19.2+ for Create v0.5.1+
+
+[Create Mod 1.18.2-1.19.2+, v.0.5.1+](https://github.com/Dokucraft/Mod-Support-Create-Mod)
+
 ## Extreme Reactors - 1.12.2, 1.20.1
 
 [Extreme Reactors 1.12.2](https://github.com/SyndiShanX/Extreme-Reactors-Mod-Support/tree/1.12.2)
