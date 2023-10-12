@@ -2,7 +2,7 @@
   {
     "name": "Aether Legacy",
     "status": "wip",
-    "repo": "Dokucraft/Aether-Legacy-Mod-Support",
+    "repo": "Dokucraft/Mod-Support-Aether-Legacy",
     "packs": [
       {
         "versions": [ "1.12.2" ],
@@ -14,7 +14,7 @@
   {
     "name": "Applied Energistics 2",
     "status": "wip",
-    "repo": "Dokucraft/Applied-Energistics-Mod-Support",
+    "repo": "Dokucraft/Mod-Support-Applied-Energistics",
     "packs": [
       {
         "versions": [ "1.12.2" ],
@@ -31,7 +31,7 @@
 	{
     "name": "Caves and Cliffs",
     "status": "completed",
-    "repo": "Dokucraft/Caves-and-Cliffs-Mod-Support",
+    "repo": "Dokucraft/Mod-Support-Caves-and-Cliffs",
     "packs": [
       {
         "versions": [ "1.16.5" ],
@@ -48,7 +48,7 @@
   {
     "name": "CC:Tweaked",
     "status": "completed",
-    "repo": "Dokucraft/CC-Tweaked-Mod-Support",
+    "repo": "Dokucraft/Mod-Support-CC-Tweaked",
     "packs": [
       {
         "versions": [ "1.16.4", "1.16.5", "1.17.1", "1.18.1", "1.18.2", "1.19.2", "1.19.3", "1.19.4", "1.20", "1.20.1" ],
@@ -84,7 +84,7 @@
   {
     "name": "Extreme Reactors",
     "status": "completed",
-    "repo": "Dokucraft/Extreme-Reactors-Mod-Support",
+    "repo": "Dokucraft/Mod-Support-Extreme-Reactors",
     "packs": [
       {
         "versions": [ "1.12.2" ],
@@ -113,7 +113,7 @@
   {
     "name": "Iron Chests",
     "status": "completed",
-    "repo": "Dokucraft/Iron-Chests-Mod-Support",
+    "repo": "Dokucraft/Mod-Support-Iron-Chests",
     "packs": [
       {
         "versions": [ "1.18.2" ],
@@ -125,7 +125,7 @@
   {
     "name": "Iron Furnaces",
     "status": "completed",
-    "repo": "Dokucraft/Iron-Furnaces-Mod-Support",
+    "repo": "Dokucraft/Mod-Support-Iron-Furnaces",
     "packs": [
       {
         "versions": [ "1.18.2" ],
@@ -137,7 +137,7 @@
   {
     "name": "Just Enough Items",
     "status": "completed",
-    "repo": "Dokucraft/Just-Enough-Items-Mod-Support",
+    "repo": "Dokucraft/Mod-Support-Just-Enough-Items",
     "packs": [
       {
         "versions": [ "1.18.2" ],
@@ -154,7 +154,7 @@
   {
     "name": "Mekanism",
     "status": "wip",
-    "repo": "Dokucraft/Mekanism-Mod-Support",
+    "repo": "Dokucraft/Mod-Support-Mekanism",
     "packs": [
       {
         "versions": [ "1.12.2" ],
@@ -183,7 +183,7 @@
   {
     "name": "ProjectE",
     "status": "wip",
-    "repo": "Dokucraft/ProjectE-Mod-Support",
+    "repo": "Dokucraft/Mod-Support-ProjectE",
     "packs": [
       {
         "versions": [ "1.16.5", "1.18.1", "1.18.2", "1.19.2" ],
@@ -195,7 +195,7 @@
   {
     "name": "Quark",
     "status": "wip",
-    "repo": "Dokucraft/Quark-Mod-Support",
+    "repo": "Dokucraft/Mod-Support-Quark",
     "packs": [
       {
         "versions": [ "1.16.5" ],
@@ -207,7 +207,7 @@
   {
     "name": "Roughly Enough Items",
     "status": "completed",
-    "repo": "Dokucraft/Roughly-Enough-Items-Mod-Support",
+    "repo": "Dokucraft/Mod-Support-Roughly-Enough-Items",
     "packs": [
       {
         "versions": [ "1.18.2" ],
@@ -219,7 +219,7 @@
   {
     "name": "Thermal Mods",
     "status": "wip",
-    "repo": "Dokucraft/Thermal-Mod-Support",
+    "repo": "Dokucraft/Mod-Support-Thermal",
     "packs": [
       {
         "versions": [ "1.12.2" ],
@@ -236,7 +236,7 @@
   {
     "name": "Tinkers Construct",
     "status": "wip",
-    "repo": "Dokucraft/Tinkers-Construct-Mod-Support",
+    "repo": "Dokucraft/Mod-Support-Tinkers-Construct",
     "packs": [
       {
         "versions": [ "1.12.2" ],
