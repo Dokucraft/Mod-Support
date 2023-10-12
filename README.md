@@ -18,9 +18,13 @@
 
 [CC:Tweaked 1.16.4-1.20.1](https://github.com/SyndiShanX/Caves-and-Cliffs-Mod-Support)
 
-## Create Mod - 1.18.2-1.19.2+ for Create v0.5.1+
+## Create Mod - 1.18.2-1.19.2
 
 [Create Mod 1.18.2-1.19.2+, v.0.5.1+](https://github.com/Dokucraft/Mod-Support-Create-Mod)
+
+## Decorative Blocks by stohun - 1.18.2+
+
+[Decorative Blocks by stohun 1.18.2+](https://github.com/Dokucraft/Mod-Support-Decorative-Blocks)
 
 ## Extreme Reactors - 1.12.2, 1.20.1
 
@@ -28,15 +32,9 @@
 
 [Extreme Reactors 1.20.1](https://github.com/SyndiShanX/Extreme-Reactors-Mod-Support)
 
-## Decorative Blocks by stohun - 1.18.2+
+## Farmer's Delight - 1.18.2-1.19.2
 
-[Decorative Blocks by stohun 1.18.2+](https://github.com/Dokucraft/Mod-Support-Decorative-Blocks)
-
-## Farmer's Delight & Farmer's Delight Add Ons - 1.18.2+
-
-[Famer's Delight (main mod) (1.18.2+)](https://github.com/Dokucraft/Mod-Support-Farmers-Delight)
-
-[Miner's Delight Add On (1.18.2+)](https://github.com/Dokucraft/Mod-Support-Miners-Delight)
+[Famer's Delight 1.18.2](https://github.com/Dokucraft/Mod-Support-Farmers-Delight)
 
 ## Iron Chests - 1.18.2
 
@@ -57,6 +55,10 @@
 [Mekanism 1.12.2](https://github.com/SyndiShanX/Mekanism-Mod-Support/tree/1.12.2)
 
 [Mekanism 1.18.2](https://github.com/SyndiShanX/Mekanism-Mod-Support)
+
+## Miner's Delight - 1.18.2-1.19.2
+
+[Miner's Delight 1.18.2](https://github.com/Dokucraft/Mod-Support-Miners-Delight)
 
 ## ProjectE - 1.16.5-1.19.2
 

@@ -28,19 +28,7 @@
       }
     ]
   },
-  {
-    "name": "CC:Tweaked",
-    "status": "completed",
-    "repo": "SyndiShanX/CC-Tweaked-Mod-Support",
-    "packs": [
-      {
-        "versions": [ "1.16.4", "1.16.5", "1.17.1", "1.18.1", "1.18.2", "1.19.2", "1.19.3", "1.19.4", "1.20", "1.20.1" ],
-        "flavor": "light",
-        "branch": "latest"
-      }
-    ]
-  },
-  {
+	{
     "name": "Caves and Cliffs",
     "status": "completed",
     "repo": "SyndiShanX/Caves-and-Cliffs-Mod-Support",
@@ -58,6 +46,42 @@
     ]
   },
   {
+    "name": "CC:Tweaked",
+    "status": "completed",
+    "repo": "SyndiShanX/CC-Tweaked-Mod-Support",
+    "packs": [
+      {
+        "versions": [ "1.16.4", "1.16.5", "1.17.1", "1.18.1", "1.18.2", "1.19.2", "1.19.3", "1.19.4", "1.20", "1.20.1" ],
+        "flavor": "light",
+        "branch": "latest"
+      }
+    ]
+  },
+	{
+    "name": "Create",
+    "status": "completed",
+    "repo": "Dokucraft/Mod-Support-Create-Mod",
+    "packs": [
+      {
+        "versions": [ "1.18.2", "1.19.2" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
+	{
+    "name": "Decorative Blocks",
+    "status": "completed",
+    "repo": "Dokucraft/Mod-Support-Decorative-Blocks",
+    "packs": [
+      {
+        "versions": [ "1.18.2" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
+  {
     "name": "Extreme Reactors",
     "status": "completed",
     "repo": "SyndiShanX/Extreme-Reactors-Mod-Support",
@@ -71,6 +95,18 @@
         "versions": [ "1.20.1" ],
         "flavor": "light",
         "branch": "1.20.1"
+      }
+    ]
+  },
+	{
+    "name": "Farmer's Delight",
+    "status": "completed",
+    "repo": "Dokucraft/Mod-Support-Farmers-Delight",
+    "packs": [
+      {
+        "versions": [ "1.18.2", "1.19.2" ],
+        "flavor": "light",
+        "branch": "main"
       }
     ]
   },
@@ -129,6 +165,18 @@
         "versions": [ "1.18.2" ],
         "flavor": "light",
         "branch": "1.18.2"
+      }
+    ]
+  },
+	{
+    "name": "Miner's Delight",
+    "status": "completed",
+    "repo": "Dokucraft/Mod-Support-Miners-Delight",
+    "packs": [
+      {
+        "versions": [ "1.18.2", "1.19.2" ],
+        "flavor": "light",
+        "branch": "main"
       }
     ]
   },
