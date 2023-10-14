@@ -216,6 +216,18 @@
       }
     ]
   },
+	{
+    "name": "Railcraft",
+    "status": "wip",
+    "repo": "Dokucraft/Mod-Support-Railcraft",
+    "packs": [
+      {
+        "versions": [ "1.20.1" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
   {
     "name": "Thermal Mods",
     "status": "wip",

@@ -68,6 +68,10 @@
 
 [Quark 1.16.5](https://github.com/Dokucraft/Mod-Support-Quark)
 
+## Railcraft - 1.20.1
+
+[Railcraft 1.20.1](https://github.com/Dokucraft/Mod-Support-Railcraft)
+
 ## Roughly Enough Items - 1.18.2
 
 [Roughly Enough Items 1.18.2](https://github.com/Dokucraft/Mod-Support-Roughly-Enough-Items)
