@@ -20,7 +20,7 @@
 
 ## Create Mod - 1.18.2-1.19.2
 
-[Create Mod 1.18.2-1.19.2+, v.0.5.1+](https://github.com/Dokucraft/Mod-Support-Create-Mod)
+[Create Mod 1.18.2-1.19.2](https://github.com/Dokucraft/Mod-Support-Create-Mod)
 
 ## Decorative Blocks - 1.18.2
 
@@ -50,11 +50,11 @@
 
 [Just Enough Items 1.18.2](https://github.com/Dokucraft/Mod-Support-Just-Enough-Items/tree/1.18.2)
 
-## Mekanism - 1.12.2, 1.18.2
+## Mekanism - 1.12.2, 1.18.2-1.20.1
 
 [Mekanism 1.12.2](https://github.com/Dokucraft/Mod-Support-Mekanism/tree/1.12.2)
 
-[Mekanism 1.18.2](https://github.com/Dokucraft/Mod-Support-Mekanism)
+[Mekanism 1.18.2-1.20.1](https://github.com/Dokucraft/Mod-Support-Mekanism)
 
 ## Miner's Delight - 1.18.2-1.19.2
 
