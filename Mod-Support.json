@@ -45,7 +45,7 @@
       }
     ]
   },
-  {
+	{
     "name": "CC:Tweaked",
     "status": "completed",
     "repo": "Dokucraft/Mod-Support-CC-Tweaked",
@@ -81,7 +81,7 @@
       }
     ]
   },
-  {
+	{
     "name": "Extreme Reactors",
     "status": "completed",
     "repo": "Dokucraft/Mod-Support-Extreme-Reactors",
@@ -180,7 +180,19 @@
       }
     ]
   },
-  {
+	{
+    "name": "Nether's Delight",
+    "status": "wip",
+    "repo": "Dokucraft/Mod-Support-Nethers-Delight",
+    "packs": [
+      {
+        "versions": [ "1.18.2", "1.19.2" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
+	{
     "name": "ProjectE",
     "status": "wip",
     "repo": "Dokucraft/Mod-Support-ProjectE",
