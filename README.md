@@ -56,9 +56,13 @@
 
 [Mekanism 1.18.2-1.20.1](https://github.com/Dokucraft/Mod-Support-Mekanism)
 
-## Miner's Delight - 1.18.2-1.19.2
+## Miner's Delight - 1.18.2-1.19.2+
 
-[Miner's Delight 1.18.2](https://github.com/Dokucraft/Mod-Support-Miners-Delight)
+[Miner's Delight 1.19.2+](https://github.com/Dokucraft/Mod-Support-Miners-Delight)
+
+## Nether's Delight - 1.18.2-1.19.2+
+
+[Nether's Delight 1.19.2+](https://github.com/Dokucraft/Mod-Support-Nethers-Delight)
 
 ## ProjectE - 1.16.5-1.19.2
 
