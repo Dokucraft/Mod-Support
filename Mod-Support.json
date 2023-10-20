@@ -28,6 +28,18 @@
       }
     ]
   },
+  {
+    "name": "Artifacts",
+    "status": "wip",
+    "repo": "Dokucraft/Mod-Support-Artifacts",
+    "packs": [
+      {
+        "versions": [ "1.20.1" ],
+        "flavor": "light",
+        "branch": "latest"
+      }
+    ]
+  },
 	{
     "name": "Caves and Cliffs",
     "status": "completed",
@@ -69,6 +81,18 @@
       }
     ]
   },
+  {
+    "name": "Curios",
+    "status": "wip",
+    "repo": "Dokucraft/Mod-Support-Curios",
+    "packs": [
+      {
+        "versions": [ "1.20.1" ],
+        "flavor": "light",
+        "branch": "latest"
+      }
+    ]
+  },
 	{
     "name": "Decorative Blocks",
     "status": "completed",
@@ -78,6 +102,18 @@
         "versions": [ "1.18.2" ],
         "flavor": "light",
         "branch": "main"
+      }
+    ]
+  },
+  {
+    "name": "Disenchanting Forge",
+    "status": "wip",
+    "repo": "Dokucraft/Mod-Disenchanting-Forge",
+    "packs": [
+      {
+        "versions": [ "1.20.1" ],
+        "flavor": "light",
+        "branch": "latest"
       }
     ]
   },
@@ -107,6 +143,30 @@
         "versions": [ "1.18.2", "1.19.2" ],
         "flavor": "light",
         "branch": "main"
+      }
+    ]
+  },
+  {
+    "name": "Framed Blocks",
+    "status": "wip",
+    "repo": "Dokucraft/Mod-Framed-Blocks",
+    "packs": [
+      {
+        "versions": [ "1.20.1" ],
+        "flavor": "light",
+        "branch": "latest"
+      }
+    ]
+  },
+  {
+    "name": "Guard Villagers",
+    "status": "wip",
+    "repo": "Dokucraft/Mod-Guard-Villagers",
+    "packs": [
+      {
+        "versions": [ "1.20.1" ],
+        "flavor": "light",
+        "branch": "latest"
       }
     ]
   },
@@ -237,6 +297,18 @@
         "versions": [ "1.20.1" ],
         "flavor": "light",
         "branch": "main"
+      }
+    ]
+  },
+  {
+    "name": "Storage Drawers",
+    "status": "wip",
+    "repo": "Dokucraft/Mod-Storage-Drawers",
+    "packs": [
+      {
+        "versions": [ "1.20.1" ],
+        "flavor": "light",
+        "branch": "latest"
       }
     ]
   },
