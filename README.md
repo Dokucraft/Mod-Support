@@ -20,7 +20,7 @@
 
 ## CC:Tweaked - 1.16.4-1.20.1
 
-[CC:Tweaked 1.16.4-1.20.1](https://github.com/Dokucraft/Mod-Support-Caves-and-Cliffs)
+[CC:Tweaked 1.16.4-1.20.1](https://github.com/Dokucraft/Mod-Support-CC-Tweaked)
 
 ## Create Mod - 1.18.2-1.19.2
 
@@ -51,6 +51,10 @@
 ## Framed Blocks - 1.20.1
 
 [Framed Blocks 1.20.1](https://github.com/Dokucraft/Mod-Support-Framed-Blocks)
+
+## Fusion - 1.20.1
+
+[Fusion 1.20.1](https://github.com/Dokucraft/Mod-Support-Fusion)
 
 ## Guard Villagers - 1.20.1
 

@@ -36,7 +36,7 @@
       {
         "versions": [ "1.20.1" ],
         "flavor": "light",
-        "branch": "latest"
+        "branch": "main"
       }
     ]
   },
@@ -89,7 +89,7 @@
       {
         "versions": [ "1.20.1" ],
         "flavor": "light",
-        "branch": "latest"
+        "branch": "main"
       }
     ]
   },
@@ -108,12 +108,12 @@
   {
     "name": "Disenchanting Forge",
     "status": "wip",
-    "repo": "Dokucraft/Mod-Disenchanting-Forge",
+    "repo": "Dokucraft/Mod-Support-Disenchanting-Forge",
     "packs": [
       {
         "versions": [ "1.20.1" ],
         "flavor": "light",
-        "branch": "latest"
+        "branch": "main"
       }
     ]
   },
@@ -149,24 +149,36 @@
   {
     "name": "Framed Blocks",
     "status": "wip",
-    "repo": "Dokucraft/Mod-Framed-Blocks",
+    "repo": "Dokucraft/Mod-Support-Framed-Blocks",
     "packs": [
       {
         "versions": [ "1.20.1" ],
         "flavor": "light",
-        "branch": "latest"
+        "branch": "main"
+      }
+    ]
+  },
+	{
+    "name": "Fusion",
+    "status": "wip",
+    "repo": "Dokucraft/Mod-Support-Fusion",
+    "packs": [
+      {
+        "versions": [ "1.20.1" ],
+        "flavor": "light",
+        "branch": "main"
       }
     ]
   },
   {
     "name": "Guard Villagers",
     "status": "wip",
-    "repo": "Dokucraft/Mod-Guard-Villagers",
+    "repo": "Dokucraft/Mod-Support-Guard-Villagers",
     "packs": [
       {
         "versions": [ "1.20.1" ],
         "flavor": "light",
-        "branch": "latest"
+        "branch": "main"
       }
     ]
   },
@@ -303,12 +315,12 @@
   {
     "name": "Storage Drawers",
     "status": "wip",
-    "repo": "Dokucraft/Mod-Storage-Drawers",
+    "repo": "Dokucraft/Mod-Support-Storage-Drawers",
     "packs": [
       {
         "versions": [ "1.20.1" ],
         "flavor": "light",
-        "branch": "latest"
+        "branch": "main"
       }
     ]
   },
