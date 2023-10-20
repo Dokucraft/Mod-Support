@@ -10,6 +10,10 @@
 
 [Applied Energistics 2 1.18.2](https://github.com/Dokucraft/Mod-Support-Applied-Energistics)
 
+## Artifacts - 1.20.1
+
+[Artifacts 1.20.1](https://github.com/Dokucraft/Mod-Support-Artifacts)
+
 ## Caves & Cliffs Backport - 1.16.5
 
 [Caves & Cliffs Backport 1.16.5](https://github.com/Dokucraft/Mod-Support-Caves-and-Cliffs)
@@ -22,9 +26,17 @@
 
 [Create Mod 1.18.2-1.19.2](https://github.com/Dokucraft/Mod-Support-Create-Mod)
 
+## Curios - 1.20.1
+
+[Curios 1.20.1](https://github.com/Dokucraft/Mod-Support-Curios)
+
 ## Decorative Blocks - 1.18.2
 
 [Decorative Blocks 1.18.2](https://github.com/Dokucraft/Mod-Support-Decorative-Blocks)
+
+## Disenchanting Forge - 1.20.1
+
+[Disenchanting Forge 1.20.1](https://github.com/Dokucraft/Mod-Support-Disenchanting-Forge)
 
 ## Extreme Reactors - 1.12.2, 1.20.1
 
@@ -35,6 +47,14 @@
 ## Farmer's Delight - 1.18.2-1.19.2
 
 [Famer's Delight 1.18.2](https://github.com/Dokucraft/Mod-Support-Farmers-Delight)
+
+## Framed Blocks - 1.20.1
+
+[Framed Blocks 1.20.1](https://github.com/Dokucraft/Mod-Support-Framed-Blocks)
+
+## Guard Villagers - 1.20.1
+
+[Guard Villagers 1.20.1](https://github.com/Dokucraft/Mod-Support-Guard-Villagers)
 
 ## Iron Chests - 1.18.2
 
@@ -79,6 +99,10 @@
 ## Roughly Enough Items - 1.18.2
 
 [Roughly Enough Items 1.18.2](https://github.com/Dokucraft/Mod-Support-Roughly-Enough-Items)
+
+## Storage Drawers - 1.20.1
+
+[Storage Drawers 1.20.1](https://github.com/Dokucraft/Mod-Support-Storage-Drawers)
 
 ## Thermal Expansion, Thermal Foundation, and COFH - 1.12.2, 1.18.2
 
