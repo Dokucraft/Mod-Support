@@ -46,7 +46,7 @@
 
 ## Extreme Sound Muffler - 1.20.1
 
-[Framed Blocks 1.20.1](https://github.com/Dokucraft/Mod-Support-Extreme-Sound-Muffler)
+[Extreme Sound Muffler 1.20.1](https://github.com/Dokucraft/Mod-Support-Extreme-Sound-Muffler)
 
 ## Farmer's Delight - 1.18.2-1.19.2
 
