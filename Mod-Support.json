@@ -134,6 +134,18 @@
       }
     ]
   },
+  {
+    "name": "Extreme Sound Muffler",
+    "status": "completed",
+    "repo": "Dokucraft/Mod-Support-Extreme-Sound-Muffler",
+    "packs": [
+      {
+        "versions": [ "1.20.1" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
 	{
     "name": "Farmer's Delight",
     "status": "completed",

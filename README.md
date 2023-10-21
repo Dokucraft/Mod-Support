@@ -44,6 +44,10 @@
 
 [Extreme Reactors 1.20.1](https://github.com/Dokucraft/Mod-Support-Extreme-Reactors)
 
+## Extreme Sound Muffler - 1.20.1
+
+[Framed Blocks 1.20.1](https://github.com/Dokucraft/Mod-Support-Extreme-Sound-Muffler)
+
 ## Farmer's Delight - 1.18.2-1.19.2
 
 [Famer's Delight 1.18.2](https://github.com/Dokucraft/Mod-Support-Farmers-Delight)
