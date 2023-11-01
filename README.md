@@ -104,6 +104,10 @@
 
 [Railcraft 1.20.1](https://github.com/Dokucraft/Mod-Support-Railcraft)
 
+## Rechiseled - 1.20.1
+
+[Rechiseled 1.20.1](https://github.com/Dokucraft/Mod-Support-Rechiseled)
+
 ## Roughly Enough Items - 1.18.2
 
 [Roughly Enough Items 1.18.2](https://github.com/Dokucraft/Mod-Support-Roughly-Enough-Items)

@@ -324,6 +324,18 @@
       }
     ]
   },
+	{
+    "name": "Rechiseled",
+    "status": "wip",
+    "repo": "Dokucraft/Mod-Support-Rechiseled",
+    "packs": [
+      {
+        "versions": [ "1.20.1" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
   {
     "name": "Storage Drawers",
     "status": "wip",
