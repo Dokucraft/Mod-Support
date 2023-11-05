@@ -40,7 +40,7 @@
       }
     ]
   },
-	{
+  {
     "name": "Caves and Cliffs",
     "status": "completed",
     "repo": "Dokucraft/Mod-Support-Caves-and-Cliffs",
@@ -57,7 +57,7 @@
       }
     ]
   },
-	{
+  {
     "name": "CC:Tweaked",
     "status": "completed",
     "repo": "Dokucraft/Mod-Support-CC-Tweaked",
@@ -69,7 +69,7 @@
       }
     ]
   },
-	{
+  {
     "name": "Create",
     "status": "completed",
     "repo": "Dokucraft/Mod-Support-Create-Mod",
@@ -93,7 +93,7 @@
       }
     ]
   },
-	{
+  {
     "name": "Decorative Blocks",
     "status": "completed",
     "repo": "Dokucraft/Mod-Support-Decorative-Blocks",
@@ -117,7 +117,7 @@
       }
     ]
   },
-	{
+  {
     "name": "Extreme Reactors",
     "status": "completed",
     "repo": "Dokucraft/Mod-Support-Extreme-Reactors",
@@ -146,7 +146,7 @@
       }
     ]
   },
-	{
+  {
     "name": "Farmer's Delight",
     "status": "completed",
     "repo": "Dokucraft/Mod-Support-Farmers-Delight",
@@ -170,7 +170,7 @@
       }
     ]
   },
-	{
+  {
     "name": "Fusion",
     "status": "wip",
     "repo": "Dokucraft/Mod-Support-Fusion",
@@ -252,7 +252,7 @@
       }
     ]
   },
-	{
+  {
     "name": "Miner's Delight",
     "status": "completed",
     "repo": "Dokucraft/Mod-Support-Miners-Delight",
@@ -264,7 +264,7 @@
       }
     ]
   },
-	{
+  {
     "name": "Nether's Delight",
     "status": "wip",
     "repo": "Dokucraft/Mod-Support-Nethers-Delight",
@@ -276,7 +276,7 @@
       }
     ]
   },
-	{
+  {
     "name": "ProjectE",
     "status": "wip",
     "repo": "Dokucraft/Mod-Support-ProjectE",
@@ -301,18 +301,6 @@
     ]
   },
   {
-    "name": "Roughly Enough Items",
-    "status": "completed",
-    "repo": "Dokucraft/Mod-Support-Roughly-Enough-Items",
-    "packs": [
-      {
-        "versions": [ "1.18.2" ],
-        "flavor": "light",
-        "branch": "1.18.2"
-      }
-    ]
-  },
-	{
     "name": "Railcraft",
     "status": "wip",
     "repo": "Dokucraft/Mod-Support-Railcraft",
@@ -324,7 +312,7 @@
       }
     ]
   },
-	{
+  {
     "name": "Rechiseled",
     "status": "wip",
     "repo": "Dokucraft/Mod-Support-Rechiseled",
@@ -333,6 +321,18 @@
         "versions": [ "1.20.1" ],
         "flavor": "light",
         "branch": "main"
+      }
+    ]
+  },
+  {
+    "name": "Roughly Enough Items",
+    "status": "completed",
+    "repo": "Dokucraft/Mod-Support-Roughly-Enough-Items",
+    "packs": [
+      {
+        "versions": [ "1.18.2" ],
+        "flavor": "light",
+        "branch": "1.18.2"
       }
     ]
   },
