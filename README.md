@@ -64,6 +64,10 @@
 
 [Guard Villagers 1.20.1](https://github.com/Dokucraft/Mod-Support-Guard-Villagers)
 
+## Immersive Engineering, Immersive Industry, and Immersive Petroleum - 1.14.4-1.18.2
+
+[Immersive Engineering 1.14.4-1.18.2](https://github.com/Dokucraft/Mod-Support-Immersive-Engineering)
+
 ## Iron Chests - 1.18.2
 
 [Iron Chests 1.18.2](https://github.com/Dokucraft/Mod-Support-Iron-Chests)
