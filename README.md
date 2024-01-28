@@ -48,9 +48,13 @@
 
 [Extreme Sound Muffler 1.20.1](https://github.com/Dokucraft/Mod-Support-Extreme-Sound-Muffler)
 
-## Farmer's Delight - 1.18.2-1.19.2
+## Farmer's Delight - 1.18.2-1.19.4
 
 [Famer's Delight 1.18.2](https://github.com/Dokucraft/Mod-Support-Farmers-Delight)
+
+## Farmer's Respite - 1.19.4
+
+[Farmer's Respite 1.19.4](https://github.com/Dokucraft/Mod-Support-Farmers-Respite)
 
 ## Framed Blocks - 1.20.1
 
