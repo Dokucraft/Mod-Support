@@ -50,11 +50,11 @@
 
 ## Farmer's Delight - 1.18.2-1.19.4
 
-[Famer's Delight 1.18.2](https://github.com/Dokucraft/Mod-Support-Farmers-Delight)
+[Famer's Delight 1.18.2-1.19.4](https://github.com/Dokucraft/Mod-Support-Farmers-Delight)
 
-## Farmer's Respite - 1.19.4
+## Farmer's Respite - 1.18.2-1.19.4
 
-[Farmer's Respite 1.19.4](https://github.com/Dokucraft/Mod-Support-Farmers-Respite)
+[Famer's Respite 1.18.2-1.19.4](https://github.com/Dokucraft/Mod-Support-Farmers-Respite)
 
 ## Framed Blocks - 1.20.1
 
