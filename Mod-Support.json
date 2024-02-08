@@ -40,6 +40,18 @@
       }
     ]
   },
+	{
+    "name": "Brewin' And Chewin'",
+    "status": "completed",
+    "repo": "Dokucraft/Mod-Support-Brewin-And-Chewin",
+    "packs": [
+      {
+        "versions": [ "1.19.2" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
   {
     "name": "Caves and Cliffs",
     "status": "completed",
