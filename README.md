@@ -14,6 +14,10 @@
 
 [Artifacts 1.20.1](https://github.com/Dokucraft/Mod-Support-Artifacts)
 
+## Brewin' And Chewin' - 1.19.2
+
+[Brewin And Chewin 1.19.2](https://github.com/Dokucraft/Mod-Support-Brewin-And-Chewin)
+
 ## Caves & Cliffs Backport - 1.16.5
 
 [Caves & Cliffs Backport 1.16.5](https://github.com/Dokucraft/Mod-Support-Caves-and-Cliffs)
