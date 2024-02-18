@@ -26,9 +26,11 @@
 
 [CC:Tweaked 1.16.4-1.20.1](https://github.com/Dokucraft/Mod-Support-CC-Tweaked)
 
-## Create Mod - 1.18.2-1.19.2
+## Create Mod - 1.18.2-1.20.1
 
 [Create Mod 1.18.2-1.19.2](https://github.com/Dokucraft/Mod-Support-Create-Mod)
+
+[Create Mod 1.20.1](https://github.com/Dokucraft/Mod-Support-Create-Mod/tree/1.20.1)
 
 ## Curios - 1.20.1
 
