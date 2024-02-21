@@ -32,6 +32,10 @@
 
 [Create Mod 1.20.1](https://github.com/Dokucraft/Mod-Support-Create-Mod/tree/1.20.1)
 
+## Create Deco Mod - 1.20.1
+
+[Create Deco Mod 1.20.1](https://github.com/Dokucraft/Mod-Support-Create-Deco/tree/main)
+
 ## Curios - 1.20.1
 
 [Curios 1.20.1](https://github.com/Dokucraft/Mod-Support-Curios)
