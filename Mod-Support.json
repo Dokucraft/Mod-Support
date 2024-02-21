@@ -94,6 +94,18 @@
     ]
   },
   {
+    "name": "Create Deco",
+    "status": "completed",
+    "repo": "Dokucraft/Mod-Support-Create-Deco-Mod",
+    "packs": [
+      {
+        "versions": [ "1.20.1" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
+  {
     "name": "Curios",
     "status": "wip",
     "repo": "Dokucraft/Mod-Support-Curios",
