@@ -58,9 +58,11 @@
 
 [Extreme Sound Muffler 1.20.1](https://github.com/Dokucraft/Mod-Support-Extreme-Sound-Muffler)
 
-## Farmer's Delight - 1.18.2-1.19.4
+## Farmer's Delight - 1.18.2-1.20.1
 
-[Famer's Delight 1.18.2-1.19.4](https://github.com/Dokucraft/Mod-Support-Farmers-Delight)
+[Farmer's Delight 1.18.2-1.19.4](https://github.com/Dokucraft/Mod-Support-Farmers-Delight/tree/1.19.2)
+
+[Farmer's Delight 1.20.1](https://github.com/Dokucraft/Mod-Support-Farmers-Delight/tree/1.20.1)
 
 ## Farmer's Respite - 1.18.2-1.19.4
 
