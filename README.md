@@ -134,6 +134,10 @@
 
 [Roughly Enough Items 1.18.2](https://github.com/Dokucraft/Mod-Support-Roughly-Enough-Items)
 
+## Scary Sculk (resource pack) - 1.19.2-1.20.1
+
+[Scary Sculk 1.19.2-1.20.1](https://github.com/Dokucraft/Mod-Support-Scary-Sculk)
+
 ## Storage Drawers - 1.20.1
 
 [Storage Drawers 1.20.1](https://github.com/Dokucraft/Mod-Support-Storage-Drawers)
