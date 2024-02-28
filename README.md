@@ -32,7 +32,7 @@
 
 ## Create Mod - 1.18.2-1.20.1
 
-[Create Mod 1.18.2-1.19.2](https://github.com/Dokucraft/Mod-Support-Create-Mod/1.19.2)
+[Create Mod 1.18.2-1.19.2](https://github.com/Dokucraft/Mod-Support-Create-Mod/tree/1.19.2)
 
 [Create Mod 1.20.1](https://github.com/Dokucraft/Mod-Support-Create-Mod/tree/1.20.1)
 
@@ -110,13 +110,15 @@
 
 ## Miner's Delight - 1.18.2-1.20.1
 
-[Miner's Delight 1.19.2](https://github.com/Dokucraft/Mod-Support-Miners-Delight/1.19.2)
+[Miner's Delight 1.19.2](https://github.com/Dokucraft/Mod-Support-Miners-Delight/tree/1.19.2)
 
-[Miner's Delight 1.20.1](https://github.com/Dokucraft/Mod-Support-Miners-Delight/1.20.1)
+[Miner's Delight 1.20.1](https://github.com/Dokucraft/Mod-Support-Miners-Delight/tree/1.20.1)
 
-## Nether's Delight - 1.18.2-1.19.2
+## Nether's Delight - 1.19.2-1.20.1
 
-[Nether's Delight 1.19.2](https://github.com/Dokucraft/Mod-Support-Nethers-Delight)
+[Nether's Delight 1.19.2](https://github.com/Dokucraft/Mod-Support-Nethers-Delight/tree/1.19.2)
+
+[Nether's Delight 1.20.1](https://github.com/Dokucraft/Mod-Support-Nethers-Delight/tree/1.20.1)
 
 ## ProjectE - 1.16.5-1.19.2
 
