@@ -329,13 +329,18 @@
   },
   {
     "name": "Nether's Delight",
-    "status": "wip",
+    "status": "completed",
     "repo": "Dokucraft/Mod-Support-Nethers-Delight",
     "packs": [
       {
-        "versions": [ "1.18.2", "1.19.2" ],
+        "versions": [ "1.19.2" ],
         "flavor": "light",
-        "branch": "main"
+        "branch": "1.19.2"
+      },
+      {
+        "versions": [ "1.20.1" ],
+        "flavor": "light",
+        "branch": "1.20.1"
       }
     ]
   },
