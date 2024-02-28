@@ -44,9 +44,9 @@
 
 [Curios 1.20.1](https://github.com/Dokucraft/Mod-Support-Curios)
 
-## Decorative Blocks - 1.18.2
+## Decorative Blocks - 1.18.20-1.20.1
 
-[Decorative Blocks 1.18.2](https://github.com/Dokucraft/Mod-Support-Decorative-Blocks)
+[Decorative Blocks 1.18.2-1.20.1](https://github.com/Dokucraft/Mod-Support-Decorative-Blocks)
 
 ## Disenchanting Forge - 1.20.1
 
