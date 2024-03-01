@@ -30,13 +30,13 @@
 
 [CC:Tweaked 1.16.4-1.20.1](https://github.com/Dokucraft/Mod-Support-CC-Tweaked)
 
-## Create Mod - 1.18.2-1.20.1
+## Create - 1.18.2-1.20.1
 
-[Create Mod 1.18.2-1.19.2](https://github.com/Dokucraft/Mod-Support-Create-Mod/tree/1.19.2)
+[Create Mod 1.18.2-1.19.2](https://github.com/Dokucraft/Mod-Support-Create/tree/1.19.2)
 
-[Create Mod 1.20.1](https://github.com/Dokucraft/Mod-Support-Create-Mod/tree/1.20.1)
+[Create Mod 1.20.1](https://github.com/Dokucraft/Mod-Support-Create/tree/1.20.1)
 
-## Create Deco Mod - 1.20.1
+## Create Deco - 1.20.1
 
 [Create Deco Mod 1.20.1](https://github.com/Dokucraft/Mod-Support-Create-Deco/tree/1.20.1)
 
