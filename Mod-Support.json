@@ -417,6 +417,23 @@
     ]
   },
   {
+    "name": "Sophisticated Backpacks",
+    "status": "completed",
+    "repo": "Dokucraft/Mod-Support-Sophisticated-Backpacks",
+    "packs": [
+      {
+        "versions": [ "1.20.1" ],
+        "flavor": "light",
+        "branch": "1.20.1-Light"
+      },
+      {
+        "versions": [ "1.20.1" ],
+        "flavor": "high",
+        "branch": "1.20.1-High"
+      }
+    ]
+  },
+  {
     "name": "Storage Drawers",
     "status": "wip",
     "repo": "Dokucraft/Mod-Support-Storage-Drawers",
