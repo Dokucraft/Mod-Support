@@ -144,6 +144,10 @@
 
 [Scary Sculk 1.19.2-1.20.1](https://github.com/Dokucraft/Mod-Support-Scary-Sculk)
 
+## Sophisticated Backpacks - 1.20.1
+
+[Sophisticated Backpacks 1.20.1](https://github.com/Dokucraft/Mod-Support-Sophisticated-Backpacks/tree/1.20.1-Light)
+
 ## Storage Drawers - 1.20.1
 
 [Storage Drawers 1.20.1](https://github.com/Dokucraft/Mod-Support-Storage-Drawers)
