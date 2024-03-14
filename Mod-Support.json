@@ -40,7 +40,24 @@
       }
     ]
   },
-	{
+  {
+    "name": "Biomes O' Plenty",
+    "status": "completed",
+    "repo": "Dokucraft/Mod-Support-Biomes-O-Plenty",
+    "packs": [
+      {
+        "versions": [ "1.20.1" ],
+        "flavor": "high",
+        "branch": "1.20.1-High"
+      },
+      {
+        "versions": [ "1.20.1" ],
+        "flavor": "light",
+        "branch": "1.20.1-Light"
+      }
+    ]
+  },
+  {
     "name": "Brewin' And Chewin'",
     "status": "completed",
     "repo": "Dokucraft/Mod-Support-Brewin-And-Chewin",
