@@ -18,6 +18,10 @@
 
 [Better Than Adventure Beta 1.7.3](https://github.com/Dokucraft/Mod-Support-Better-Than-Adventure)
 
+## Biomes O' Plenty - 1.20.1
+
+[Biomes O' Plenty 1.20.1](https://github.com/Dokucraft/Mod-Support-Biomes-O-Plenty)
+
 ## Brewin' And Chewin' - 1.19.2
 
 [Brewin And Chewin 1.19.2](https://github.com/Dokucraft/Mod-Support-Brewin-And-Chewin)
