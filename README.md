@@ -46,7 +46,7 @@
 
 ## Create Steam & Rails - 1.20.1
 
-[Create Steam & Rails 1.20.1](https://github.com/Dokucraft/Create-Steam-and-Rails)
+[Create Steam & Rails 1.20.1](https://github.com/Dokucraft/Mod-Support-Create-Steam-and-Rails)
 
 ## Curios - 1.20.1
 
