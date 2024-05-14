@@ -104,6 +104,10 @@
 
 [Iron Furnaces 1.18.2](https://github.com/Dokucraft/Mod-Support-Iron-Furnaces)
 
+## Item Collectors - 1.19.2
+
+[Item Collectors 1.19.2](https://github.com/Dokucraft/Mod-Support-Item-Collectors)
+
 ## Just Enough Items - 1.18.2, 1.20.1
 
 [Just Enough Items 1.20.1](https://github.com/Dokucraft/Mod-Support-Just-Enough-Items)

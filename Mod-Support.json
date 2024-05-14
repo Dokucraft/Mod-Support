@@ -306,6 +306,18 @@
     ]
   },
   {
+    "name": "Item Collectors",
+    "status": "completed",
+    "repo": "Dokucraft/Mod-Support-Item-Collectors",
+    "packs": [
+      {
+        "versions": [ "1.19.2" ],
+        "flavor": "light",
+        "branch": "1.19.2"
+      }
+    ]
+  },
+  {
     "name": "Just Enough Items",
     "status": "completed",
     "repo": "Dokucraft/Mod-Support-Just-Enough-Items",
