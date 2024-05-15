@@ -313,7 +313,7 @@
       {
         "versions": [ "1.19.2" ],
         "flavor": "light",
-        "branch": "1.19.2"
+        "branch": "main"
       }
     ]
   },
