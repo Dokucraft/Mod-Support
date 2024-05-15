@@ -246,6 +246,18 @@
     ]
   },
   {
+    "name": "Functional Storage",
+    "status": "wip",
+    "repo": "Dokucraft/Mod-Support-Functional-Storage",
+    "packs": [
+      {
+        "versions": [ "1.19.2" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
+  {
     "name": "Fusion",
     "status": "wip",
     "repo": "Dokucraft/Mod-Support-Fusion",

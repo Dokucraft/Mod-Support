@@ -84,6 +84,10 @@
 
 [Framed Blocks 1.20.1](https://github.com/Dokucraft/Mod-Support-Framed-Blocks)
 
+## Functional Storage - 1.19.2
+
+[Functional Storage 1.19.2](https://github.com/Dokucraft/Mod-Support-Functional-Storage)
+
 ## Fusion - 1.20.1
 
 [Fusion 1.20.1](https://github.com/Dokucraft/Mod-Support-Fusion)
