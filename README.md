@@ -168,11 +168,13 @@
 
 [Storage Drawers 1.20.1](https://github.com/Dokucraft/Mod-Support-Storage-Drawers)
 
-## Thermal Expansion, Thermal Foundation, and COFH - 1.12.2, 1.18.2
+## Thermal Expansion, Thermal Foundation, and COFH - 1.12.2, 1.18.2, 1.19.2
 
 [Thermal Expansion, Thermal Foundation, and COFH 1.12.2](https://github.com/Dokucraft/Mod-Support-Thermal/tree/1.12.2)
 
-[Thermal Expansion, Thermal Foundation, and COFH 1.18.2](https://github.com/Dokucraft/Mod-Support-Thermal)
+[Thermal Expansion, Thermal Foundation, and COFH 1.18.2](https://github.com/Dokucraft/Mod-Support-Thermal/tree/1.18.2)
+
+[Thermal Expansion, Thermal Foundation, and COFH 1.19.2](https://github.com/Dokucraft/Mod-Support-Thermal)
 
 ## Tinkers Construct - 1.12.2, 1.18.2
 
