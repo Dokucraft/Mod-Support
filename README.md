@@ -10,6 +10,10 @@
 
 [Applied Energistics 2 1.18.2](https://github.com/Dokucraft/Mod-Support-Applied-Energistics)
 
+## Ars Nouveau - 1.20.1
+
+[Ars Nouveau 1.20.1](https://github.com/Dokucraft/Mod-Support-Ars-Nouveau/tree/1.20.1)
+
 ## Artifacts - 1.20.1
 
 [Artifacts 1.20.1](https://github.com/Dokucraft/Mod-Support-Artifacts)
