@@ -1,14 +1,19 @@
 [
   {
     "name": "Aether Legacy",
-    "status": "wip",
+    "status": "complete",
     "repo": "Dokucraft/Mod-Support-Aether-Legacy",
     "packs": [
       {
         "versions": [ "1.12.2" ],
         "flavor": "light",
         "branch": "1.12.2"
-      }
+      },
+      {
+        "versions": [ "1.20.1" ],
+        "flavor": "light",
+        "branch": "1.20.1"
+      }    
     ]
   },
   {
