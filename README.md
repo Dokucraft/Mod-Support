@@ -3,6 +3,7 @@
 ## Aether Legacy - 1.12.2, 1.20.1
 
 [Aether Legacy 1.12.2](https://github.com/Dokucraft/Mod-Support-Aether-Legacy/tree/1.12.2)
+
 [Aether (Legacy) 1.20.1](https://github.com/Dokucraft/Mod-Support-Aether-Legacy/tree/1.20.1)
 
 ## Applied Energistics 2 - 1.12.2, 1.18.2
