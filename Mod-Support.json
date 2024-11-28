@@ -30,6 +30,11 @@
         "versions": [ "1.18.2" ],
         "flavor": "light",
         "branch": "1.18.2"
+      },
+      {
+        "versions": [ "1.20.1" ],
+        "flavor": "light",
+        "branch": "1.20.1"
       }
     ]
   },
