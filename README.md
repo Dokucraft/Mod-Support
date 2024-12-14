@@ -58,6 +58,10 @@
 
 [Curios 1.20.1](https://github.com/Dokucraft/Mod-Support-Curios)
 
+## Cyclic - 1.16.5-1.20.1
+
+[Cyclic 1.16.5-1.20.1](https://github.com/Dokucraft/Mod-Support-Cyclic)
+
 ## Decorative Blocks - 1.18.20-1.20.1
 
 [Decorative Blocks 1.18.2-1.20.1](https://github.com/Dokucraft/Mod-Support-Decorative-Blocks)

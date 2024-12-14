@@ -173,6 +173,18 @@
       }
     ]
   },
+	{
+    "name": "Cyclic",
+    "status": "wip",
+    "repo": "Dokucraft/Mod-Support-Cyclic",
+    "packs": [
+      {
+        "versions": [ "1.16.5", "1.18.2", "1.19.2", "1.19.4", "1.20.1" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
   {
     "name": "Decorative Blocks",
     "status": "completed",
