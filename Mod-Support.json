@@ -39,6 +39,18 @@
     ]
   },
   {
+    "name": "Apotheosis",
+    "status": "wip",
+    "repo": "Dokucraft/Mod-Support-Apotheosis",
+    "packs": [
+      {
+        "versions": [ "1.19.2" ],
+        "flavor": "light",
+        "branch": "1.19.2"
+      }
+    ]
+  },
+  {
     "name": "Ars Nouveau",
     "status": "complete",
     "repo": "Dokucraft/Mod-Support-Ars-Nouveau",
