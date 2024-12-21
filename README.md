@@ -6,6 +6,10 @@
 
 [Aether (Legacy) 1.20.1](https://github.com/Dokucraft/Mod-Support-Aether-Legacy/tree/1.20.1)
 
+## Apotheosis - 1.19.2
+
+[Apotheosis 1.19.2](https://github.com/Dokucraft/Mod-Support-Apotheosis)
+
 ## Applied Energistics 2 - 1.12.2, 1.18.2
 
 [Applied Energistics 2 1.12.2](https://github.com/Dokucraft/Mod-Support-Applied-Energistics/tree/1.12.2)
