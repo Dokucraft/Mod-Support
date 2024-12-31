@@ -133,6 +133,18 @@
     ]
   },
 	{
+    "name": "Cooking for Blockheads",
+    "status": "completed",
+    "repo": "Dokucraft/Mod-Support-Cooking-For-Blockheads",
+    "packs": [
+      {
+        "versions": [ "1.19.2" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
+	{
     "name": "Crafting Station",
     "status": "completed",
     "repo": "Dokucraft/Mod-Support-Crafting-Station",
