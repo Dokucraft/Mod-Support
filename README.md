@@ -44,6 +44,10 @@
 
 [CC:Tweaked 1.16.4-1.20.1](https://github.com/Dokucraft/Mod-Support-CC-Tweaked)
 
+## Cooking for Blockheads - 1.19.2
+
+[Cooking for Blockheads 1.19.2](https://github.com/Dokucraft/Mod-Support-Cooking-For-Blockheads)
+
 ## Crafting Station - 1.14.4-1.21.1
 
 [Crafting Station 1.14.4-1.21.1](https://github.com/Dokucraft/Mod-Support-Crafting-Station)
