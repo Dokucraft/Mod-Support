@@ -74,6 +74,10 @@
 
 [Cyclic 1.16.5-1.20.1](https://github.com/Dokucraft/Mod-Support-Cyclic)
 
+## Corn Delight - 1.20.1
+
+[Corn Delight 1.20.1](https://github.com/Dokucraft/Mod-Support-Corn-Delight/tree/1.20.1)
+
 ## Decorative Blocks - 1.18.20-1.20.1
 
 [Decorative Blocks 1.18.2-1.20.1](https://github.com/Dokucraft/Mod-Support-Decorative-Blocks)
