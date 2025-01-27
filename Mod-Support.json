@@ -145,6 +145,18 @@
     ]
   },
 	{
+    "name": "Corn Delight",
+    "status": "completed",
+    "repo": "Dokucraft/Mod-Support-Corn-Delight",
+    "packs": [
+      {
+        "versions": [ "1.20.1" ],
+        "flavor": "light",
+        "branch": "1.20.1"
+      }
+    ]
+  },
+	{
     "name": "Crafting Station",
     "status": "completed",
     "repo": "Dokucraft/Mod-Support-Crafting-Station",
