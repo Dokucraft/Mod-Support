@@ -48,6 +48,10 @@
 
 [Cooking for Blockheads 1.19.2](https://github.com/Dokucraft/Mod-Support-Cooking-For-Blockheads)
 
+## Corn Delight - 1.20.1
+
+[Corn Delight 1.20.1](https://github.com/Dokucraft/Mod-Support-Corn-Delight/tree/1.20.1)
+
 ## Crafting Station - 1.14.4-1.21.1
 
 [Crafting Station 1.14.4-1.21.1](https://github.com/Dokucraft/Mod-Support-Crafting-Station)
@@ -73,10 +77,6 @@
 ## Cyclic - 1.16.5-1.20.1
 
 [Cyclic 1.16.5-1.20.1](https://github.com/Dokucraft/Mod-Support-Cyclic)
-
-## Corn Delight - 1.20.1
-
-[Corn Delight 1.20.1](https://github.com/Dokucraft/Mod-Support-Corn-Delight/tree/1.20.1)
 
 ## Decorative Blocks - 1.18.20-1.20.1
 
