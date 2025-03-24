@@ -202,8 +202,10 @@
 
 [Thermal Expansion, Thermal Foundation, and COFH 1.19.2](https://github.com/Dokucraft/Mod-Support-Thermal)
 
-## Tinkers Construct - 1.12.2, 1.18.2
+## Tinkers Construct - 1.12.2, 1.18.2, 1.20.1
 
 [Tinkers Construct 1.12.2](https://github.com/Dokucraft/Mod-Support-Tinkers-Construct/tree/1.12.2)
 
-[Tinkers Construct 1.18.2](https://github.com/Dokucraft/Mod-Support-Tinkers-Construct)
+[Tinkers Construct 1.18.2](https://github.com/Dokucraft/Mod-Support-Tinkers-Construct/tree/1.18.2)
+
+[Tinkers Construct 1.20.1](https://github.com/Dokucraft/Mod-Support-Tinkers-Construct)
