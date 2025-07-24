@@ -24,6 +24,10 @@
 
 [Artifacts 1.20.1](https://github.com/Dokucraft/Mod-Support-Artifacts)
 
+## Athena - 1.20.1
+
+[Artifacts 1.20.1](https://github.com/Dokucraft/Mod-Support-Athena)
+
 ## Better Than Adventure - Beta 1.7.3
 
 [Better Than Adventure Beta 1.7.3](https://github.com/Dokucraft/Mod-Support-Better-Than-Adventure)
