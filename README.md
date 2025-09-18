@@ -10,11 +10,15 @@
 
 [Apotheosis 1.19.2](https://github.com/Dokucraft/Mod-Support-Apotheosis)
 
-## Applied Energistics 2 - 1.12.2, 1.18.2
+## Applied Energistics 2 - 1.12.2, 1.18.2, 1.20.1, 1.21.1
 
 [Applied Energistics 2 1.12.2](https://github.com/Dokucraft/Mod-Support-Applied-Energistics/tree/1.12.2)
 
-[Applied Energistics 2 1.18.2](https://github.com/Dokucraft/Mod-Support-Applied-Energistics)
+[Applied Energistics 2 1.18.2](https://github.com/Dokucraft/Mod-Support-Applied-Energistics/tree/1.18.2)
+
+[Applied Energistics 2 1.20.1](https://github.com/Dokucraft/Mod-Support-Applied-Energistics/tree/1.20.1)
+
+[Applied Energistics 2 1.21.1](https://github.com/Dokucraft/Mod-Support-Applied-Energistics)
 
 ## Ars Nouveau - 1.20.1
 
