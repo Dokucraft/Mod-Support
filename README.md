@@ -223,3 +223,7 @@
 [Tinkers Construct 1.18.2](https://github.com/Dokucraft/Mod-Support-Tinkers-Construct/tree/1.18.2)
 
 [Tinkers Construct 1.20.1](https://github.com/Dokucraft/Mod-Support-Tinkers-Construct)
+
+## Waystones - 1.21.1
+
+[Waystones 1.21.1](https://github.com/Dokucraft/Mod-Support-Waystones)
