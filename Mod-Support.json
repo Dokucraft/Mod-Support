@@ -445,6 +445,23 @@
       }
     ]
   },
+	{
+    "name": "Lootr",
+    "status": "completed",
+    "repo": "Dokucraft/Mod-Support-Lootr",
+    "packs": [
+      {
+        "versions": [ "1.21.1" ],
+        "flavor": "light",
+        "branch": "light"
+      },
+      {
+        "versions": [ "1.21.1" ],
+        "flavor": "high",
+        "branch": "high"
+      }
+    ]
+  },
   {
     "name": "Mekanism",
     "status": "wip",
