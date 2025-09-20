@@ -138,9 +138,11 @@
 
 [Iron Chests 1.18.2](https://github.com/Dokucraft/Mod-Support-Iron-Chests)
 
-## Iron Furnaces - 1.18.2
+## Iron Furnaces - 1.18.2-1.21.1
 
-[Iron Furnaces 1.18.2](https://github.com/Dokucraft/Mod-Support-Iron-Furnaces)
+[Iron Furnaces Light](https://github.com/Dokucraft/Mod-Support-Iron-Furnaces)
+
+[Iron Furnaces High](https://github.com/Dokucraft/Mod-Support-Iron-Furnaces/tree/high)
 
 ## Item Collectors - 1.19.2
 
