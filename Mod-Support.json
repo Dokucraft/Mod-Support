@@ -274,6 +274,18 @@
       }
     ]
   },
+	{
+    "name": "Domum Ornamentum",
+    "status": "wip",
+    "repo": "Dokucraft/Mod-Support-Domum-Ornamentum",
+    "packs": [
+      {
+        "versions": [ "1.21.1" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
   {
     "name": "Extreme Reactors",
     "status": "completed",
@@ -338,7 +350,7 @@
     "repo": "Dokucraft/Mod-Support-Framed-Blocks",
     "packs": [
       {
-        "versions": [ "1.20.1" ],
+        "versions": [ "1.20.1", "1.20.1" ],
         "flavor": "light",
         "branch": "main"
       }
@@ -456,12 +468,12 @@
     "repo": "Dokucraft/Mod-Support-Lootr",
     "packs": [
       {
-        "versions": [ "1.21.1" ],
+        "versions": [ "1.20.1", "1.21.1" ],
         "flavor": "light",
         "branch": "light"
       },
       {
-        "versions": [ "1.21.1" ],
+        "versions": [ "1.20.1", "1.21.1" ],
         "flavor": "high",
         "branch": "high"
       }
@@ -481,6 +493,18 @@
         "versions": [ "1.18.2", "1.19.2", "1.20.1" ],
         "flavor": "light",
         "branch": "latest"
+      }
+    ]
+  },
+	{
+    "name": "Minecolonies",
+    "status": "wip",
+    "repo": "Dokucraft/Mod-Support-Minecolonies",
+    "packs": [
+      {
+        "versions": [ "1.21.1" ],
+        "flavor": "light",
+        "branch": "main"
       }
     ]
   },
@@ -599,18 +623,6 @@
         "versions": [ "1.18.2" ],
         "flavor": "light",
         "branch": "1.18.2"
-      }
-    ]
-  },
-  {
-    "name": "Scary Sculk by KeepMeow",
-    "status": "completed",
-    "repo": "https://github.com/Dokucraft/Mod-Support-Scary-Sculk",
-    "packs": [
-      {
-        "versions": [ "1.19.2" , "1.20.1" ],
-        "flavor": "light",
-        "branch": "1.20.1"
       }
     ]
   },

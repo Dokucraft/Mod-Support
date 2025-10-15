@@ -94,6 +94,10 @@
 
 [Disenchanting Forge 1.20.1](https://github.com/Dokucraft/Mod-Support-Disenchanting-Forge)
 
+## Domum Ornamentum - 1.21.1
+
+[Domum Ornamentum 1.21.1](https://github.com/Dokucraft/Mod-Support-Domum-Ornamentum)
+
 ## Extreme Reactors - 1.12.2, 1.20.1
 
 [Extreme Reactors 1.12.2](https://github.com/Dokucraft/Mod-Support-Extreme-Reactors/tree/1.12.2)
@@ -114,7 +118,7 @@
 
 [Famer's Respite 1.18.2-1.19.4](https://github.com/Dokucraft/Mod-Support-Farmers-Respite)
 
-## Framed Blocks - 1.20.1
+## Framed Blocks - 1.20.1, 1.21.1
 
 [Framed Blocks 1.20.1](https://github.com/Dokucraft/Mod-Support-Framed-Blocks)
 
@@ -154,17 +158,21 @@
 
 [Just Enough Items 1.18.2](https://github.com/Dokucraft/Mod-Support-Just-Enough-Items/tree/1.18.2)
 
-## Lootr - 1.21.1
+## Lootr - 1.20.1, 1.21.1
 
-[Lootr 1.20.1](https://github.com/Dokucraft/Mod-Support-Lootr)
+[Lootr 1.20.1, 1.21.1](https://github.com/Dokucraft/Mod-Support-Lootr)
 
-[Lootr 1.20.1 (High)](https://github.com/Dokucraft/Mod-Support-Lootr/tree/high)
+[Lootr 1.20.1, 1.21.1 (High)](https://github.com/Dokucraft/Mod-Support-Lootr/tree/high)
 
 ## Mekanism - 1.12.2, 1.18.2-1.20.1
 
 [Mekanism 1.12.2](https://github.com/Dokucraft/Mod-Support-Mekanism/tree/1.12.2)
 
 [Mekanism 1.18.2-1.20.1](https://github.com/Dokucraft/Mod-Support-Mekanism)
+
+## Minecolonies - 1.21.1
+
+[Minecolonies 1.21.1](https://github.com/Dokucraft/Mod-Support-Minecolonies)
 
 ## Miner's Delight - 1.18.2-1.20.1
 
@@ -205,10 +213,6 @@
 ## Roughly Enough Items - 1.18.2
 
 [Roughly Enough Items 1.18.2](https://github.com/Dokucraft/Mod-Support-Roughly-Enough-Items)
-
-## Scary Sculk (resource pack) - 1.19.2-1.20.1
-
-[Scary Sculk 1.19.2-1.20.1](https://github.com/Dokucraft/Mod-Support-Scary-Sculk)
 
 ## Sophisticated Backpacks - 1.20.1
 
