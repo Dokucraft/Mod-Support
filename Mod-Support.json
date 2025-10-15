@@ -518,6 +518,18 @@
       }
     ]
   },
+	{
+    "name": "PneumaticCraft",
+    "status": "wip",
+    "repo": "Dokucraft/Mod-Support-PneumaticCraft",
+    "packs": [
+      {
+        "versions": [ "1.21.1" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
   {
     "name": "ProjectE",
     "status": "wip",
@@ -561,6 +573,18 @@
     "packs": [
       {
         "versions": [ "1.20.1" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
+	{
+    "name": "Refined Storage",
+    "status": "wip",
+    "repo": "Dokucraft/Mod-Support-Refined-Storage",
+    "packs": [
+      {
+        "versions": [ "1.21.1" ],
         "flavor": "light",
         "branch": "main"
       }

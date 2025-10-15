@@ -178,6 +178,10 @@
 
 [Nether's Delight 1.20.1](https://github.com/Dokucraft/Mod-Support-Nethers-Delight/tree/1.20.1)
 
+## PneumaticCraft - 1.21.1
+
+[PneumaticCraft 1.21.1](https://github.com/Dokucraft/Mod-Support-PneumaticCraft)
+
 ## ProjectE - 1.16.5-1.19.2
 
 [ProjectE 1.16.5-1.19.2](https://github.com/Dokucraft/Mod-Support-ProjectE)
@@ -193,6 +197,10 @@
 ## Rechiseled - 1.20.1
 
 [Rechiseled 1.20.1](https://github.com/Dokucraft/Mod-Support-Rechiseled)
+
+## Refined Storage - 1.21.1
+
+[Refined Storage 1.21.1](https://github.com/Dokucraft/Mod-Support-Refined-Storage)
 
 ## Roughly Enough Items - 1.18.2
 
