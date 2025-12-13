@@ -168,6 +168,10 @@
 
 [Lootr 1.20.1, 1.21.1 (High)](https://github.com/Dokucraft/Mod-Support-Lootr/tree/high)
 
+## Mantle - 1.20.1+
+
+[Mantle 1.20.1+](https://github.com/Dokucraft/Mod-Support-Mantle)
+
 ## Mekanism - 1.12.2, 1.18.2-1.20.1
 
 [Mekanism 1.12.2](https://github.com/Dokucraft/Mod-Support-Mekanism/tree/1.12.2)
