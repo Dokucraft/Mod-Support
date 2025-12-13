@@ -10,6 +10,10 @@
 
 [Apotheosis 1.19.2](https://github.com/Dokucraft/Mod-Support-Apotheosis)
 
+## Appleskin - 1.10.2+
+
+[Appleskin 1.10.2+](https://github.com/Dokucraft/Mod-Support-Appleskin)
+
 ## Applied Energistics 2 - 1.12.2, 1.18.2, 1.20.1, 1.21.1
 
 [Applied Energistics 2 1.12.2](https://github.com/Dokucraft/Mod-Support-Applied-Energistics/tree/1.12.2)
