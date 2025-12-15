@@ -52,9 +52,9 @@
 
 [Caves & Cliffs Backport 1.16.5](https://github.com/Dokucraft/Mod-Support-Caves-and-Cliffs)
 
-## CC:Tweaked - 1.16.4-1.20.1
+## CC:Tweaked - 1.16.4-1.21.1
 
-[CC:Tweaked 1.16.4-1.20.1](https://github.com/Dokucraft/Mod-Support-CC-Tweaked)
+[CC:Tweaked 1.16.4-1.21.1](https://github.com/Dokucraft/Mod-Support-CC-Tweaked)
 
 ## Cooking for Blockheads - 1.19.2
 
