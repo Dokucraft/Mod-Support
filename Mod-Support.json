@@ -626,6 +626,18 @@
       }
     ]
   },
+  {
+    "name": "Re-Console",
+    "status": "completed",
+    "repo": "Dokucraft/Mod-Support-Re-Console",
+    "packs": [
+      {
+        "versions": [ "1.20.10" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
 	{
     "name": "Refined Storage",
     "status": "wip",

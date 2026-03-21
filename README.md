@@ -214,6 +214,10 @@
 
 [Rechiseled 1.20.1](https://github.com/Dokucraft/Mod-Support-Rechiseled)
 
+## Re-Console+ - 1.21.10
+
+[Re-Console+ 1.21.10](https://github.com/Dokucraft/Mod-Support-Re-Console)
+
 ## Refined Storage - 1.21.1
 
 [Refined Storage 1.21.1](https://github.com/Dokucraft/Mod-Support-Refined-Storage)
