@@ -162,6 +162,10 @@
 
 [Just Enough Items 1.18.2](https://github.com/Dokucraft/Mod-Support-Just-Enough-Items/tree/1.18.2)
 
+## Legacy4J - 1.21.10
+
+[Legacy4J 1.21.10](https://github.com/Dokucraft/Mod-Support-Legacy4J)
+
 ## Lootr - 1.20.1, 1.21.1
 
 [Lootr 1.20.1, 1.21.1](https://github.com/Dokucraft/Mod-Support-Lootr)
@@ -213,10 +217,6 @@
 ## Rechiseled - 1.20.1
 
 [Rechiseled 1.20.1](https://github.com/Dokucraft/Mod-Support-Rechiseled)
-
-## Re-Console+ - 1.21.10
-
-[Re-Console+ 1.21.10](https://github.com/Dokucraft/Mod-Support-Re-Console)
 
 ## Refined Storage - 1.21.1
 

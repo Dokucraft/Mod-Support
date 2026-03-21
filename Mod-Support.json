@@ -475,6 +475,18 @@
     ]
   },
 	{
+    "name": "Legacy4J",
+    "status": "completed",
+    "repo": "Dokucraft/Mod-Support-Legacy4J",
+    "packs": [
+      {
+        "versions": [ "1.20.10" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
+	{
     "name": "Lootr",
     "status": "completed",
     "repo": "Dokucraft/Mod-Support-Lootr",
@@ -621,18 +633,6 @@
     "packs": [
       {
         "versions": [ "1.20.1" ],
-        "flavor": "light",
-        "branch": "main"
-      }
-    ]
-  },
-  {
-    "name": "Re-Console",
-    "status": "completed",
-    "repo": "Dokucraft/Mod-Support-Re-Console",
-    "packs": [
-      {
-        "versions": [ "1.20.10" ],
         "flavor": "light",
         "branch": "main"
       }
