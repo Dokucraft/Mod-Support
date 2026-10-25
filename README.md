@@ -24,6 +24,10 @@
 
 [Applied Energistics 2 1.21.1](https://github.com/Dokucraft/Mod-Support-Applied-Energistics)
 
+## Armor HUD - 26.1, 26.2, 26.3
+
+[Armor HUD 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-Armor-HUD)
+
 ## Ars Nouveau - 1.20.1
 
 [Ars Nouveau 1.20.1](https://github.com/Dokucraft/Mod-Support-Ars-Nouveau/tree/1.20.1)

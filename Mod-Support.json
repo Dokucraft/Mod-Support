@@ -68,6 +68,18 @@
     ]
   },
   {
+    "name": "Armor HUD",
+    "status": "complete",
+    "repo": "holyromanknight-ui/Mod-Support-Armor-HUD",
+    "packs": [
+      {
+        "versions": [ "26.1", "26.2", "26.3" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
+  {
     "name": "Ars Nouveau",
     "status": "complete",
     "repo": "Dokucraft/Mod-Support-Ars-Nouveau",
