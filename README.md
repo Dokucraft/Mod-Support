@@ -124,6 +124,10 @@
 
 [Extreme Sound Muffler 1.20.1](https://github.com/Dokucraft/Mod-Support-Extreme-Sound-Muffler)
 
+# Fabric - 26.1, 26.2, 26.3
+
+[Cloth Config 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-Fabric)
+
 ## Farmer's Delight - 1.18.2-1.20.1
 
 [Farmer's Delight 1.18.2-1.19.4](https://github.com/Dokucraft/Mod-Support-Farmers-Delight/tree/1.19.2)
@@ -145,6 +149,10 @@
 ## Fusion - 1.20.1
 
 [Fusion 1.20.1](https://github.com/Dokucraft/Mod-Support-Fusion)
+
+## Fzzy Config - 26.1, 26.2, 26.3
+
+[Cloth Config 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-Fzzy-Config)
 
 ## Guard Villagers - 1.20.1
 

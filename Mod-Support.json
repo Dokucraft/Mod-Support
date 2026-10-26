@@ -381,6 +381,18 @@
     ]
   },
   {
+    "name": "Fabric",
+    "status": "complete",
+    "repo": "holyromanknight-ui/Mod-Support-Fabric",
+    "packs": [
+      {
+        "versions": [ "26.1", "26.2", "26.3" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
+  {
     "name": "Farmer's Respite",
     "status": "completed",
     "repo": "Dokucraft/Mod-Support-Farmers-Respite",
@@ -423,6 +435,18 @@
     "packs": [
       {
         "versions": [ "1.20.1" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
+  {
+    "name": "Fzzy Config",
+    "status": "complete",
+    "repo": "holyromanknight-ui/Fzzy-Config",
+    "packs": [
+      {
+        "versions": [ "26.1", "26.2", "26.3" ],
         "flavor": "light",
         "branch": "main"
       }
