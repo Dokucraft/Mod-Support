@@ -674,7 +674,19 @@
       }
     ]
   },
-	{
+  {
+    "name": "Particle Effects",
+    "status": "complete",
+    "repo": "holyromanknight-ui/Mod-Support-Particle-Effects",
+    "packs": [
+      {
+        "versions": [ "26.1", "26.2", "26.3" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
+  {
     "name": "PneumaticCraft",
     "status": "wip",
     "repo": "Dokucraft/Mod-Support-PneumaticCraft",

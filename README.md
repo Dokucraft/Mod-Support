@@ -126,7 +126,7 @@
 
 # Fabric - 26.1, 26.2, 26.3
 
-[Cloth Config 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-Fabric)
+[Fabric 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-Fabric)
 
 ## Farmer's Delight - 1.18.2-1.20.1
 
@@ -196,7 +196,7 @@
 
 ## Iris - 26.1, 26.2, 26.3
 
-[Inventory Profiles Next 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-LibIPN)
+[Iris 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-LibIPN)
 
 ## Lootr - 1.20.1, 1.21.1
 
@@ -229,6 +229,10 @@
 [Nether's Delight 1.19.2](https://github.com/Dokucraft/Mod-Support-Nethers-Delight/tree/1.19.2)
 
 [Nether's Delight 1.20.1](https://github.com/Dokucraft/Mod-Support-Nethers-Delight/tree/1.20.1)
+
+# Fabric - 26.1, 26.2, 26.3
+
+[Particle Effects 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-Particle-Effects)
 
 ## PneumaticCraft - 1.21.1
 
