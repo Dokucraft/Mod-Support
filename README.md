@@ -152,7 +152,7 @@
 
 ## Fzzy Config - 26.1, 26.2, 26.3
 
-[Cloth Config 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-Fzzy-Config)
+[Fzzy Config 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-Fzzy-Config)
 
 ## Guard Villagers - 1.20.1
 
@@ -161,6 +161,10 @@
 ## Immersive Engineering, Immersive Industry, and Immersive Petroleum - 1.14.4-1.18.2
 
 [Immersive Engineering 1.14.4-1.18.2](https://github.com/Dokucraft/Mod-Support-Immersive-Engineering)
+
+## Inventory Profiles Next - 26.1, 26.2, 26.3
+
+[Inventory Profiles Next 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-Inventory-Profiles-Next)
 
 ## Iron Chests - 1.18.2
 

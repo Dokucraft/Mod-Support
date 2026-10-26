@@ -443,7 +443,7 @@
   {
     "name": "Fzzy Config",
     "status": "complete",
-    "repo": "holyromanknight-ui/Fzzy-Config",
+    "repo": "holyromanknight-ui/Mod-Support-Fzzy-Config",
     "packs": [
       {
         "versions": [ "26.1", "26.2", "26.3" ],
@@ -473,6 +473,18 @@
         "versions": [ "1.14.4", "1.15.2", "1.16.5", "1.17.1", "1.18.2" ],
         "flavor": "light",
         "branch": "latest"
+      }
+    ]
+  },
+  {
+    "name": "Inventory Profiles Next",
+    "status": "complete",
+    "repo": "holyromanknight-ui/Mod-Support-Inventory-Profiles-Next",
+    "packs": [
+      {
+        "versions": [ "26.1", "26.2", "26.3" ],
+        "flavor": "light",
+        "branch": "main"
       }
     ]
   },
