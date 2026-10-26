@@ -194,6 +194,10 @@
 
 [Legacy4J 1.21.10](https://github.com/Dokucraft/Mod-Support-Legacy4J)
 
+## Iris - 26.1, 26.2, 26.3
+
+[Inventory Profiles Next 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-LibIPN)
+
 ## Lootr - 1.20.1, 1.21.1
 
 [Lootr 1.20.1, 1.21.1](https://github.com/Dokucraft/Mod-Support-Lootr)

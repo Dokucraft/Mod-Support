@@ -570,6 +570,18 @@
       }
     ]
   },
+  {
+    "name": "LibIPN",
+    "status": "complete",
+    "repo": "holyromanknight-ui/Mod-Support-LibIPN",
+    "packs": [
+      {
+        "versions": [ "26.1", "26.2", "26.3" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
 	{
     "name": "Lootr",
     "status": "completed",
