@@ -60,6 +60,10 @@
 
 [CC:Tweaked 1.16.4-1.21.1](https://github.com/Dokucraft/Mod-Support-CC-Tweaked)
 
+## Cloth Config - 26.1, 26.2, 26.3
+
+[Cloth Config 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-Cloth-Config)
+
 ## Cooking for Blockheads - 1.19.2
 
 [Cooking for Blockheads 1.19.2](https://github.com/Dokucraft/Mod-Support-Cooking-For-Blockheads)
@@ -105,6 +109,10 @@
 ## Domum Ornamentum - 1.21.1
 
 [Domum Ornamentum 1.21.1](https://github.com/Dokucraft/Mod-Support-Domum-Ornamentum)
+
+## Entity Texture Features - 26.1, 26.2, 26.3
+
+[Cloth Config 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-Entity-Texture-Features)
 
 ## Extreme Reactors - 1.12.2, 1.20.1
 

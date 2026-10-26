@@ -173,6 +173,18 @@
       }
     ]
   },
+  {
+    "name": "Cloth Config",
+    "status": "complete",
+    "repo": "holyromanknight-ui/Mod-Support-Cloth-Config",
+    "packs": [
+      {
+        "versions": [ "26.1", "26.2", "26.3" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
 	{
     "name": "Cooking for Blockheads",
     "status": "completed",
@@ -305,6 +317,18 @@
     "packs": [
       {
         "versions": [ "1.21.1" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
+  {
+    "name": "Entity Texture Features",
+    "status": "complete",
+    "repo": "holyromanknight-ui/Mod-Support-Entity-Texture-Features",
+    "packs": [
+      {
+        "versions": [ "26.1", "26.2", "26.3" ],
         "flavor": "light",
         "branch": "main"
       }
