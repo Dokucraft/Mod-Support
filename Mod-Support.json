@@ -530,6 +530,18 @@
     ]
   },
   {
+    "name": "Iris",
+    "status": "complete",
+    "repo": "holyromanknight-ui/Mod-Support-Iris",
+    "packs": [
+      {
+        "versions": [ "26.1", "26.2", "26.3" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
+  {
     "name": "Just Enough Items",
     "status": "completed",
     "repo": "Dokucraft/Mod-Support-Just-Enough-Items",

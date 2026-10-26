@@ -170,6 +170,10 @@
 
 [Iron Chests 1.18.2](https://github.com/Dokucraft/Mod-Support-Iron-Chests)
 
+## Iris - 26.1, 26.2, 26.3
+
+[Inventory Profiles Next 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-Iris)
+
 ## Iron Furnaces - 1.18.2-1.21.1
 
 [Iron Furnaces Light](https://github.com/Dokucraft/Mod-Support-Iron-Furnaces)
