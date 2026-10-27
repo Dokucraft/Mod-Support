@@ -270,6 +270,10 @@
 
 [Roughly Enough Items 1.18.2](https://github.com/Dokucraft/Mod-Support-Roughly-Enough-Items)
 
+# Shulker Box Tool Tip - 26.1, 26.2, 26.3
+
+[Shulker Box Tool Tip 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-Shulker-Box-Tool-Tip)
+
 ## Sophisticated Backpacks - 1.20.1
 
 [Sophisticated Backpacks 1.20.1](https://github.com/Dokucraft/Mod-Support-Sophisticated-Backpacks/tree/1.20.1-Light)
