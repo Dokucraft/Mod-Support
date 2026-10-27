@@ -658,6 +658,18 @@
     ]
   },
   {
+    "name": "Mod Menu",
+    "status": "complete",
+    "repo": "holyromanknight-ui/Mod-Support-Mod-Menu",
+    "packs": [
+      {
+        "versions": [ "26.1", "26.2", "26.3" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
+  {
     "name": "Nether's Delight",
     "status": "completed",
     "repo": "Dokucraft/Mod-Support-Nethers-Delight",
@@ -729,6 +741,18 @@
     "packs": [
       {
         "versions": [ "1.20.1" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
+  {
+    "name": "Raised",
+    "status": "complete",
+    "repo": "holyromanknight-ui/Mod-Support-Raised",
+    "packs": [
+      {
+        "versions": [ "26.1", "26.2", "26.3" ],
         "flavor": "light",
         "branch": "main"
       }

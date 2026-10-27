@@ -224,6 +224,10 @@
 
 [Miner's Delight 1.20.1](https://github.com/Dokucraft/Mod-Support-Miners-Delight/tree/1.20.1)
 
+## Mod Menu - 26.1, 26.2, 26.3
+
+[Mod Menu 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-Mod-Menu)
+
 ## Nether's Delight - 1.19.2-1.20.1
 
 [Nether's Delight 1.19.2](https://github.com/Dokucraft/Mod-Support-Nethers-Delight/tree/1.19.2)
@@ -232,7 +236,7 @@
 
 # Fabric - 26.1, 26.2, 26.3
 
-[Particle Effects 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-Particle-Effects)
+[Fabric 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-Fabric)
 
 ## PneumaticCraft - 1.21.1
 
@@ -249,6 +253,10 @@
 ## Railcraft - 1.20.1
 
 [Railcraft 1.20.1](https://github.com/Dokucraft/Mod-Support-Railcraft)
+
+# Raised - 26.1, 26.2, 26.3
+
+[Raised 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-Raised)
 
 ## Rechiseled - 1.20.1
 
