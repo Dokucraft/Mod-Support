@@ -173,6 +173,18 @@
       }
     ]
   },
+  {
+    "name": "Cloth Config",
+    "status": "complete",
+    "repo": "holyromanknight-ui/Mod-Support-Cloth-Config",
+    "packs": [
+      {
+        "versions": [ "26.1", "26.2", "26.3" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
 	{
     "name": "Cooking for Blockheads",
     "status": "completed",
@@ -311,6 +323,18 @@
     ]
   },
   {
+    "name": "Entity Texture Features",
+    "status": "complete",
+    "repo": "holyromanknight-ui/Mod-Support-Entity-Texture-Features",
+    "packs": [
+      {
+        "versions": [ "26.1", "26.2", "26.3" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
+  {
     "name": "Extreme Reactors",
     "status": "completed",
     "repo": "Dokucraft/Mod-Support-Extreme-Reactors",
@@ -353,6 +377,18 @@
         "versions": [ "1.20.1" ],
         "flavor": "light",
         "branch": "1.20.1"
+      }
+    ]
+  },
+  {
+    "name": "Fabric",
+    "status": "complete",
+    "repo": "holyromanknight-ui/Mod-Support-Fabric",
+    "packs": [
+      {
+        "versions": [ "26.1", "26.2", "26.3" ],
+        "flavor": "light",
+        "branch": "main"
       }
     ]
   },
@@ -405,6 +441,18 @@
     ]
   },
   {
+    "name": "Fzzy Config",
+    "status": "complete",
+    "repo": "holyromanknight-ui/Mod-Support-Fzzy-Config",
+    "packs": [
+      {
+        "versions": [ "26.1", "26.2", "26.3" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
+  {
     "name": "Guard Villagers",
     "status": "wip",
     "repo": "Dokucraft/Mod-Support-Guard-Villagers",
@@ -425,6 +473,18 @@
         "versions": [ "1.14.4", "1.15.2", "1.16.5", "1.17.1", "1.18.2" ],
         "flavor": "light",
         "branch": "latest"
+      }
+    ]
+  },
+  {
+    "name": "Inventory Profiles Next",
+    "status": "complete",
+    "repo": "holyromanknight-ui/Mod-Support-Inventory-Profiles-Next",
+    "packs": [
+      {
+        "versions": [ "26.1", "26.2", "26.3" ],
+        "flavor": "light",
+        "branch": "main"
       }
     ]
   },
@@ -470,6 +530,18 @@
     ]
   },
   {
+    "name": "Iris",
+    "status": "complete",
+    "repo": "holyromanknight-ui/Mod-Support-Iris",
+    "packs": [
+      {
+        "versions": [ "26.1", "26.2", "26.3" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
+  {
     "name": "Just Enough Items",
     "status": "completed",
     "repo": "Dokucraft/Mod-Support-Just-Enough-Items",
@@ -493,6 +565,18 @@
     "packs": [
       {
         "versions": [ "1.20.10" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
+  {
+    "name": "LibIPN",
+    "status": "complete",
+    "repo": "holyromanknight-ui/Mod-Support-LibIPN",
+    "packs": [
+      {
+        "versions": [ "26.1", "26.2", "26.3" ],
         "flavor": "light",
         "branch": "main"
       }
@@ -574,6 +658,18 @@
     ]
   },
   {
+    "name": "Mod Menu",
+    "status": "complete",
+    "repo": "holyromanknight-ui/Mod-Support-Mod-Menu",
+    "packs": [
+      {
+        "versions": [ "26.1", "26.2", "26.3" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
+  {
     "name": "Nether's Delight",
     "status": "completed",
     "repo": "Dokucraft/Mod-Support-Nethers-Delight",
@@ -590,7 +686,19 @@
       }
     ]
   },
-	{
+  {
+    "name": "Particle Effects",
+    "status": "complete",
+    "repo": "holyromanknight-ui/Mod-Support-Particle-Effects",
+    "packs": [
+      {
+        "versions": [ "26.1", "26.2", "26.3" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
+  {
     "name": "PneumaticCraft",
     "status": "wip",
     "repo": "Dokucraft/Mod-Support-PneumaticCraft",
@@ -633,6 +741,18 @@
     "packs": [
       {
         "versions": [ "1.20.1" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
+  {
+    "name": "Raised",
+    "status": "complete",
+    "repo": "holyromanknight-ui/Mod-Support-Raised",
+    "packs": [
+      {
+        "versions": [ "26.1", "26.2", "26.3" ],
         "flavor": "light",
         "branch": "main"
       }

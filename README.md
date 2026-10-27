@@ -60,6 +60,10 @@
 
 [CC:Tweaked 1.16.4-1.21.1](https://github.com/Dokucraft/Mod-Support-CC-Tweaked)
 
+## Cloth Config - 26.1, 26.2, 26.3
+
+[Cloth Config 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-Cloth-Config)
+
 ## Cooking for Blockheads - 1.19.2
 
 [Cooking for Blockheads 1.19.2](https://github.com/Dokucraft/Mod-Support-Cooking-For-Blockheads)
@@ -106,6 +110,10 @@
 
 [Domum Ornamentum 1.21.1](https://github.com/Dokucraft/Mod-Support-Domum-Ornamentum)
 
+## Entity Texture Features - 26.1, 26.2, 26.3
+
+[Cloth Config 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-Entity-Texture-Features)
+
 ## Extreme Reactors - 1.12.2, 1.20.1
 
 [Extreme Reactors 1.12.2](https://github.com/Dokucraft/Mod-Support-Extreme-Reactors/tree/1.12.2)
@@ -115,6 +123,10 @@
 ## Extreme Sound Muffler - 1.20.1
 
 [Extreme Sound Muffler 1.20.1](https://github.com/Dokucraft/Mod-Support-Extreme-Sound-Muffler)
+
+# Fabric - 26.1, 26.2, 26.3
+
+[Fabric 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-Fabric)
 
 ## Farmer's Delight - 1.18.2-1.20.1
 
@@ -138,6 +150,10 @@
 
 [Fusion 1.20.1](https://github.com/Dokucraft/Mod-Support-Fusion)
 
+## Fzzy Config - 26.1, 26.2, 26.3
+
+[Fzzy Config 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-Fzzy-Config)
+
 ## Guard Villagers - 1.20.1
 
 [Guard Villagers 1.20.1](https://github.com/Dokucraft/Mod-Support-Guard-Villagers)
@@ -146,9 +162,17 @@
 
 [Immersive Engineering 1.14.4-1.18.2](https://github.com/Dokucraft/Mod-Support-Immersive-Engineering)
 
+## Inventory Profiles Next - 26.1, 26.2, 26.3
+
+[Inventory Profiles Next 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-Inventory-Profiles-Next)
+
 ## Iron Chests - 1.18.2
 
 [Iron Chests 1.18.2](https://github.com/Dokucraft/Mod-Support-Iron-Chests)
+
+## Iris - 26.1, 26.2, 26.3
+
+[Inventory Profiles Next 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-Iris)
 
 ## Iron Furnaces - 1.18.2-1.21.1
 
@@ -169,6 +193,10 @@
 ## Legacy4J - 1.21.10
 
 [Legacy4J 1.21.10](https://github.com/Dokucraft/Mod-Support-Legacy4J)
+
+## Iris - 26.1, 26.2, 26.3
+
+[Iris 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-LibIPN)
 
 ## Lootr - 1.20.1, 1.21.1
 
@@ -196,11 +224,19 @@
 
 [Miner's Delight 1.20.1](https://github.com/Dokucraft/Mod-Support-Miners-Delight/tree/1.20.1)
 
+## Mod Menu - 26.1, 26.2, 26.3
+
+[Mod Menu 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-Mod-Menu)
+
 ## Nether's Delight - 1.19.2-1.20.1
 
 [Nether's Delight 1.19.2](https://github.com/Dokucraft/Mod-Support-Nethers-Delight/tree/1.19.2)
 
 [Nether's Delight 1.20.1](https://github.com/Dokucraft/Mod-Support-Nethers-Delight/tree/1.20.1)
+
+# Fabric - 26.1, 26.2, 26.3
+
+[Fabric 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-Fabric)
 
 ## PneumaticCraft - 1.21.1
 
@@ -218,6 +254,10 @@
 
 [Railcraft 1.20.1](https://github.com/Dokucraft/Mod-Support-Railcraft)
 
+# Raised - 26.1, 26.2, 26.3
+
+[Raised 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-Raised)
+
 ## Rechiseled - 1.20.1
 
 [Rechiseled 1.20.1](https://github.com/Dokucraft/Mod-Support-Rechiseled)
@@ -229,6 +269,10 @@
 ## Roughly Enough Items - 1.18.2
 
 [Roughly Enough Items 1.18.2](https://github.com/Dokucraft/Mod-Support-Roughly-Enough-Items)
+
+# Shulker Box Tool Tip - 26.1, 26.2, 26.3
+
+[Shulker Box Tool Tip 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-Shulker-Box-Tool-Tip)
 
 ## Sophisticated Backpacks - 1.20.1
 
