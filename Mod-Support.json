@@ -848,6 +848,18 @@
     ]
   },
   {
+    "name": "TCDCommons API",
+    "status": "complete",
+    "repo": "holyromanknight-ui/Mod-Support-TCDCommons",
+    "packs": [
+      {
+        "versions": [ "26.1", "26.2", "26.3" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
+  {
     "name": "Thermal Mods",
     "status": "wip",
     "repo": "Dokucraft/Mod-Support-Thermal",
