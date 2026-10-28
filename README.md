@@ -282,6 +282,10 @@
 
 [Storage Drawers 1.20.1](https://github.com/Dokucraft/Mod-Support-Storage-Drawers)
 
+# Subtle Effects - 26.1, 26.2, 26.3
+
+[Subtle Effects 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-Subtle-Effects)
+
 ## Thermal Expansion, Thermal Foundation, and COFH - 1.12.2, 1.18.2, 1.19.2
 
 [Thermal Expansion, Thermal Foundation, and COFH 1.12.2](https://github.com/Dokucraft/Mod-Support-Thermal/tree/1.12.2)

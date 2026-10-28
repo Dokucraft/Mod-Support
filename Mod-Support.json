@@ -795,6 +795,18 @@
     ]
   },
   {
+    "name": "Shulker Box Tool Tip",
+    "status": "complete",
+    "repo": "holyromanknight-ui/Mod-Support-Shulker-Box-Tool-Tip",
+    "packs": [
+      {
+        "versions": [ "26.1", "26.2", "26.3" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
+  {
     "name": "Sophisticated Backpacks",
     "status": "completed",
     "repo": "Dokucraft/Mod-Support-Sophisticated-Backpacks",
@@ -818,6 +830,18 @@
     "packs": [
       {
         "versions": [ "1.20.1" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
+  {
+    "name": "Subtle Effects",
+    "status": "complete",
+    "repo": "holyromanknight-ui/Mod-Support-Subtle-Effects",
+    "packs": [
+      {
+        "versions": [ "26.1", "26.2", "26.3" ],
         "flavor": "light",
         "branch": "main"
       }
