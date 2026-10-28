@@ -903,7 +903,19 @@
       }
     ]
   },
-	{
+  {
+    "name": "Visuality",
+    "status": "complete",
+    "repo": "holyromanknight-ui/Mod-Support-Visuality",
+    "packs": [
+      {
+        "versions": [ "26.1", "26.2", "26.3" ],
+        "flavor": "light",
+        "branch": "main"
+      }
+    ]
+  },
+  {
     "name": "Waystones",
     "status": "wip",
     "repo": "Dokucraft/Mod-Support-Waystones",

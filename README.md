@@ -306,6 +306,10 @@
 
 [Tinkers Construct 1.20.1](https://github.com/Dokucraft/Mod-Support-Tinkers-Construct)
 
+# Visuality - 26.1, 26.2, 26.3
+
+[Visuality 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-Visuality)
+
 ## Waystones - 1.21.1
 
 [Waystones 1.21.1](https://github.com/Dokucraft/Mod-Support-Waystones)
