@@ -282,6 +282,14 @@
 
 [Storage Drawers 1.20.1](https://github.com/Dokucraft/Mod-Support-Storage-Drawers)
 
+# Subtle Effects - 26.1, 26.2, 26.3
+
+[Subtle Effects 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-Subtle-Effects)
+
+# TCDCommons API - 26.1, 26.2, 26.3
+
+[TCDCommons API 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-TCDCommons)
+
 ## Thermal Expansion, Thermal Foundation, and COFH - 1.12.2, 1.18.2, 1.19.2
 
 [Thermal Expansion, Thermal Foundation, and COFH 1.12.2](https://github.com/Dokucraft/Mod-Support-Thermal/tree/1.12.2)
@@ -297,6 +305,10 @@
 [Tinkers Construct 1.18.2](https://github.com/Dokucraft/Mod-Support-Tinkers-Construct/tree/1.18.2)
 
 [Tinkers Construct 1.20.1](https://github.com/Dokucraft/Mod-Support-Tinkers-Construct)
+
+# Visuality - 26.1, 26.2, 26.3
+
+[Visuality 26.1, 26.2, 26.3](https://github.com/holyromanknight-ui/Mod-Support-Visuality)
 
 ## Waystones - 1.21.1
 
